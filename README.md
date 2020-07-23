@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there, I'm Robert Brunhage 👋
 
-<!--
-**RobertBrunhage/robertbrunhage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Listwell](https://listwell.app)
+- 👯 I’m looking to collaborate on YouTube
+- 💬 Ask me about Flutter or tech in general
+- 📫 How to reach me: [Twitter - @robertbrunahge](https://twitter.com/RobertBrunhage), [YouTube - @robertbrunhage](https://youtube.com/c/robertbrunhage)
+- ⚡ Fun fact: I play the Piano and love online games (PvP)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📢 Find me elsewhere
+<a href="https://twitter.com/robertbrunhage">
+  <img align="left" alt="Robert's Twitter" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://github.com/robertbrunhage">
+  <img align="left" alt="Robert's Github" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/robertbrunhagedev/">
+  <img align="left" alt="Robert's Instagram" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.youtube.com/c/robertbrunhage">
+  <img align="left" alt="Robert's Youtube" width="34px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
