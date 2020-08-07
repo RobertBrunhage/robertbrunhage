@@ -18,6 +18,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Modding My Keyboard (Lubing stabs)](https://www.youtube.com/watch?v=49iuGme1nAc)
+- [Flutter Cross Platform Setup In 6 Minutes](https://www.youtube.com/watch?v=70dqIVvoEyw)
+- [Flutter: Introduction Screen Animation | Animated Switcher](https://www.youtube.com/watch?v=gJ6tyXQVDIw)
+- [TOP 5 Beginner MISTAKES In Flutter](https://www.youtube.com/watch?v=F9Z3KhhfwHU)
+- [Making An App in 48 Hours!](https://www.youtube.com/watch?v=jMtabDa10wU)
 <!-- YOUTUBE:END -->
 
 [twitter]: https://twitter.com/robertbrunhage
