@@ -1,7 +1,7 @@
 ### 👋 Hi there, I'm Robert Brunhage
 
-[<img align="left" src="https://img.shields.io/static/v1?label=@RobertBrunhage&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge" />][youtube]
-[<img align="left" src="https://img.shields.io/twitter/follow/robertbrunhage?color=%231DA1F2&logo=twitter&style=for-the-badge" />][twitter]
+[![youtube](https://img.shields.io/static/v1?label=@RobertBrunhage&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)](http://bit.ly/2SUyRhx)
+[![twitter](https://img.shields.io/twitter/follow/robertbrunhage?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frobertbrunhage&screen_name=robertbrunhage)
 
 ## What am I up to, though??? 😊
 - 🔭 I’m currently working on [Listwell](https://listwell.app)
