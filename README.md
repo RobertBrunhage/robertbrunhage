@@ -35,10 +35,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1173](https://github.com//pop-os/pop/issues/1173) in [pop-os/pop](https://github.com//pop-os/pop)
-2. 🗣 Commented on [#3](https://github.com//RobertBrunhage/flutter-riverpod-snippets/issues/3) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com//RobertBrunhage/flutter-riverpod-snippets)
+2. 🗣 Commented on [#1173](https://github.com//pop-os/pop/issues/1173) in [pop-os/pop](https://github.com//pop-os/pop)
 3. 🗣 Commented on [#3](https://github.com//RobertBrunhage/flutter-riverpod-snippets/issues/3) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com//RobertBrunhage/flutter-riverpod-snippets)
-4. 💪 Opened PR [#91](https://github.com//rrousselGit/river_pod/pull/91) in [rrousselGit/river_pod](https://github.com//rrousselGit/river_pod)
-5. 🎉 Merged PR [#2](https://github.com//RobertBrunhage/flutter-riverpod-snippets/pull/2) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com//RobertBrunhage/flutter-riverpod-snippets)
+4. 🗣 Commented on [#3](https://github.com//RobertBrunhage/flutter-riverpod-snippets/issues/3) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com//RobertBrunhage/flutter-riverpod-snippets)
+5. 💪 Opened PR [#91](https://github.com//rrousselGit/river_pod/pull/91) in [rrousselGit/river_pod](https://github.com//rrousselGit/river_pod)
 <!--END_SECTION:activity-->
 
 </details>
