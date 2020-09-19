@@ -21,11 +21,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Flutter Firebase Authentication - The Clean Way](https://www.youtube.com/watch?v=oJ5Vrya3wCQ)
 - [State Management Like A Pro - Flutter Riverpod](https://www.youtube.com/watch?v=GVspNESSess)
 - [Flutter Powerful Commands - Dart Define](https://www.youtube.com/watch?v=BbRBV6MvLqE)
 - [Modding My Keyboard (Lubing stabs)](https://www.youtube.com/watch?v=49iuGme1nAc)
 - [Flutter Cross Platform Setup In 6 Minutes](https://www.youtube.com/watch?v=70dqIVvoEyw)
-- [Flutter: Introduction Screen Animation | Animated Switcher](https://www.youtube.com/watch?v=gJ6tyXQVDIw)
 <!-- YOUTUBE:END -->
 
 ---
