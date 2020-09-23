@@ -34,10 +34,10 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com//RobertBrunhage/flutter_firebase_auth_tutorial/pull/1) in [RobertBrunhage/flutter_firebase_auth_tutorial](https://github.com//RobertBrunhage/flutter_firebase_auth_tutorial)
-2. 🗣 Commented on [#1173](https://github.com//pop-os/pop/issues/1173) in [pop-os/pop](https://github.com//pop-os/pop)
+1. 🗣 Commented on [#152](https://github.com//rrousselGit/river_pod/issues/152) in [rrousselGit/river_pod](https://github.com//rrousselGit/river_pod)
+2. 💪 Opened PR [#1](https://github.com//RobertBrunhage/flutter_firebase_auth_tutorial/pull/1) in [RobertBrunhage/flutter_firebase_auth_tutorial](https://github.com//RobertBrunhage/flutter_firebase_auth_tutorial)
 3. 🗣 Commented on [#1173](https://github.com//pop-os/pop/issues/1173) in [pop-os/pop](https://github.com//pop-os/pop)
-4. 🗣 Commented on [#3](https://github.com//RobertBrunhage/flutter-riverpod-snippets/issues/3) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com//RobertBrunhage/flutter-riverpod-snippets)
+4. 🗣 Commented on [#1173](https://github.com//pop-os/pop/issues/1173) in [pop-os/pop](https://github.com//pop-os/pop)
 5. 🗣 Commented on [#3](https://github.com//RobertBrunhage/flutter-riverpod-snippets/issues/3) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com//RobertBrunhage/flutter-riverpod-snippets)
 <!--END_SECTION:activity-->
 
