@@ -4,8 +4,7 @@
 [![twitter](https://img.shields.io/twitter/follow/robertbrunhage?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frobertbrunhage&screen_name=robertbrunhage)
 
 ## What am I up to, though??? 😊
-- 🔭 I’m currently working on [Listwell](https://listwell.app)
-- 👯 I’m looking to collaborate on YouTube
+- 🔭 I’m currently working on a Flutter Course [Website](https://robertbrunhage.com)
 - 💬 Ask me about Flutter or tech in general
 - ⚡ Fun fact: I play the Piano and love online games (PvP)
 
