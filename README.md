@@ -20,11 +20,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Building a Movie App in 10 Minutes with Flutter](https://www.youtube.com/watch?v=soTEOI_rIIQ)
 - [Flutter Testing For Beginners - The Ultimate Guide](https://www.youtube.com/watch?v=RDY6UYh-nyg)
 - [Flutter Code Generation - What You Need To Know](https://www.youtube.com/watch?v=pI6cXMmXBkA)
 - [Flutter GitHub Actions - Automate Your Workflow](https://www.youtube.com/watch?v=rpQKpXjH5vs)
 - [Flutter Firebase Authentication - The Clean Way](https://www.youtube.com/watch?v=oJ5Vrya3wCQ)
-- [State Management Like A Pro - Flutter Riverpod](https://www.youtube.com/watch?v=GVspNESSess)
 <!-- YOUTUBE:END -->
 
 ---
