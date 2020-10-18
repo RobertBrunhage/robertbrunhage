@@ -33,9 +33,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#167](https://github.com/rrousselGit/river_pod/issues/167) in [rrousselGit/river_pod](https://github.com/rrousselGit/river_pod)
-2. 🎉 Merged PR [#1](https://github.com/RobertBrunhage/flutter_firebase_auth_tutorial/pull/1) in [RobertBrunhage/flutter_firebase_auth_tutorial](https://github.com/RobertBrunhage/flutter_firebase_auth_tutorial)
-3. 🗣 Commented on [#152](https://github.com/rrousselGit/river_pod/issues/152) in [rrousselGit/river_pod](https://github.com/rrousselGit/river_pod)
+1. ❗️ Opened issue [#67](https://github.com/iamcco/coc-flutter/issues/67) in [iamcco/coc-flutter](https://github.com/iamcco/coc-flutter)
+2. ❗️ Opened issue [#167](https://github.com/rrousselGit/river_pod/issues/167) in [rrousselGit/river_pod](https://github.com/rrousselGit/river_pod)
+3. 🎉 Merged PR [#1](https://github.com/RobertBrunhage/flutter_firebase_auth_tutorial/pull/1) in [RobertBrunhage/flutter_firebase_auth_tutorial](https://github.com/RobertBrunhage/flutter_firebase_auth_tutorial)
 4. 🗣 Commented on [#152](https://github.com/rrousselGit/river_pod/issues/152) in [rrousselGit/river_pod](https://github.com/rrousselGit/river_pod)
 5. 🗣 Commented on [#152](https://github.com/rrousselGit/river_pod/issues/152) in [rrousselGit/river_pod](https://github.com/rrousselGit/river_pod)
 <!--END_SECTION:activity-->
