@@ -33,7 +33,7 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#67](https://github.com/iamcco/coc-flutter/issues/67) in [iamcco/coc-flutter](https://github.com/iamcco/coc-flutter)
+1. ❗️ Closed issue [#67](https://github.com/iamcco/coc-flutter/issues/67) in [iamcco/coc-flutter](https://github.com/iamcco/coc-flutter)
 2. 🗣 Commented on [#67](https://github.com/iamcco/coc-flutter/issues/67) in [iamcco/coc-flutter](https://github.com/iamcco/coc-flutter)
 3. 🗣 Commented on [#67](https://github.com/iamcco/coc-flutter/issues/67) in [iamcco/coc-flutter](https://github.com/iamcco/coc-flutter)
 4. 🗣 Commented on [#67](https://github.com/iamcco/coc-flutter/issues/67) in [iamcco/coc-flutter](https://github.com/iamcco/coc-flutter)
