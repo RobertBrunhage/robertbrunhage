@@ -33,9 +33,9 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1284](https://github.com/SirVer/ultisnips/issues/1284) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
-2. ❗️ Closed issue [#67](https://github.com/iamcco/coc-flutter/issues/67) in [iamcco/coc-flutter](https://github.com/iamcco/coc-flutter)
-3. 🗣 Commented on [#67](https://github.com/iamcco/coc-flutter/issues/67) in [iamcco/coc-flutter](https://github.com/iamcco/coc-flutter)
+1. 🗣 Commented on [#5](https://github.com/neoclide/coc-snippets/issues/5) in [neoclide/coc-snippets](https://github.com/neoclide/coc-snippets)
+2. ❗️ Opened issue [#1284](https://github.com/SirVer/ultisnips/issues/1284) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
+3. ❗️ Closed issue [#67](https://github.com/iamcco/coc-flutter/issues/67) in [iamcco/coc-flutter](https://github.com/iamcco/coc-flutter)
 4. 🗣 Commented on [#67](https://github.com/iamcco/coc-flutter/issues/67) in [iamcco/coc-flutter](https://github.com/iamcco/coc-flutter)
 5. 🗣 Commented on [#67](https://github.com/iamcco/coc-flutter/issues/67) in [iamcco/coc-flutter](https://github.com/iamcco/coc-flutter)
 <!--END_SECTION:activity-->
