@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1284](https://github.com/SirVer/ultisnips/issues/1284) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
-2. 🗣 Commented on [#1284](https://github.com/SirVer/ultisnips/issues/1284) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
-3. 🗣 Commented on [#92](https://github.com/dart-lang/dart-vim-plugin/issues/92) in [dart-lang/dart-vim-plugin](https://github.com/dart-lang/dart-vim-plugin)
-4. 🗣 Commented on [#5](https://github.com/neoclide/coc-snippets/issues/5) in [neoclide/coc-snippets](https://github.com/neoclide/coc-snippets)
-5. ❗️ Opened issue [#1284](https://github.com/SirVer/ultisnips/issues/1284) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
+1. 🗣 Commented on [#92](https://github.com/dart-lang/dart-vim-plugin/issues/92) in [dart-lang/dart-vim-plugin](https://github.com/dart-lang/dart-vim-plugin)
+2. ❗️ Closed issue [#1284](https://github.com/SirVer/ultisnips/issues/1284) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
+3. 🗣 Commented on [#1284](https://github.com/SirVer/ultisnips/issues/1284) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
+4. 🗣 Commented on [#92](https://github.com/dart-lang/dart-vim-plugin/issues/92) in [dart-lang/dart-vim-plugin](https://github.com/dart-lang/dart-vim-plugin)
+5. 🗣 Commented on [#5](https://github.com/neoclide/coc-snippets/issues/5) in [neoclide/coc-snippets](https://github.com/neoclide/coc-snippets)
 <!--END_SECTION:activity-->
 
 </details>
