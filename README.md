@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/RobertBrunhage/movie_app/pull/1) in [RobertBrunhage/movie_app](https://github.com/RobertBrunhage/movie_app)
-2. 🗣 Commented on [#1](https://github.com/RobertBrunhage/movie_app/issues/1) in [RobertBrunhage/movie_app](https://github.com/RobertBrunhage/movie_app)
-3. 🗣 Commented on [#92](https://github.com/dart-lang/dart-vim-plugin/issues/92) in [dart-lang/dart-vim-plugin](https://github.com/dart-lang/dart-vim-plugin)
-4. ❗️ Closed issue [#1284](https://github.com/SirVer/ultisnips/issues/1284) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
-5. 🗣 Commented on [#1284](https://github.com/SirVer/ultisnips/issues/1284) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
+1. ❗️ Opened issue [#6](https://github.com/robertodoering/twitter_api/issues/6) in [robertodoering/twitter_api](https://github.com/robertodoering/twitter_api)
+2. 🎉 Merged PR [#1](https://github.com/RobertBrunhage/movie_app/pull/1) in [RobertBrunhage/movie_app](https://github.com/RobertBrunhage/movie_app)
+3. 🗣 Commented on [#1](https://github.com/RobertBrunhage/movie_app/issues/1) in [RobertBrunhage/movie_app](https://github.com/RobertBrunhage/movie_app)
+4. 🗣 Commented on [#92](https://github.com/dart-lang/dart-vim-plugin/issues/92) in [dart-lang/dart-vim-plugin](https://github.com/dart-lang/dart-vim-plugin)
+5. ❗️ Closed issue [#1284](https://github.com/SirVer/ultisnips/issues/1284) in [SirVer/ultisnips](https://github.com/SirVer/ultisnips)
 <!--END_SECTION:activity-->
 
 </details>
