@@ -20,11 +20,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Learn Flutter Life Cycle In 10 Minutes](https://www.youtube.com/watch?v=CjloInz3-I0)
 - [Flutter Immutability as a PRO using StateNotifier](https://www.youtube.com/watch?v=nUF0IrEjWj0)
 - [Flutter State Management Guide - What you need to know](https://www.youtube.com/watch?v=NMwWvzGcX24)
 - [Learn Flutter Hooks and Maximize Your Code Reuse](https://www.youtube.com/watch?v=A1DUBgIsCv8)
 - [Learn How To Implement Pagination with Flutter](https://www.youtube.com/watch?v=a5QU6cwMHpw)
-- [Flutter Folder Structure and Packages](https://www.youtube.com/watch?v=yJRpuTP156o)
 <!-- YOUTUBE:END -->
 
 ---
