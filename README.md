@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#44201](https://github.com/dart-lang/sdk/issues/44201) in [dart-lang/sdk](https://github.com/dart-lang/sdk)
-2. 💪 Opened PR [#12](https://github.com/RobertBrunhage/website/pull/12) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-3. ❗️ Opened issue [#11](https://github.com/RobertBrunhage/website/issues/11) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-4. ❗️ Opened issue [#10](https://github.com/RobertBrunhage/website/issues/10) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-5. ❗️ Opened issue [#9](https://github.com/RobertBrunhage/website/issues/9) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+1. ❗️ Opened issue [#343](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/issues/343) in [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)
+2. 🗣 Commented on [#44201](https://github.com/dart-lang/sdk/issues/44201) in [dart-lang/sdk](https://github.com/dart-lang/sdk)
+3. 💪 Opened PR [#12](https://github.com/RobertBrunhage/website/pull/12) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+4. ❗️ Opened issue [#11](https://github.com/RobertBrunhage/website/issues/11) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+5. ❗️ Opened issue [#10](https://github.com/RobertBrunhage/website/issues/10) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
 <!--END_SECTION:activity-->
 
 </details>
