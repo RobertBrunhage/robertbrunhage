@@ -20,11 +20,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [The Ultimate Flutter Starter Packages I Use 2021](https://www.youtube.com/watch?v=zk-TkfPr3Z0)
 - [The Ultimate Flutter Setup 2021](https://www.youtube.com/watch?v=HhumfOSYFNc)
 - [Channel Update 2021 | What The Future Holds](https://www.youtube.com/watch?v=MzyDf4FT6LY)
 - [Null Safety In Flutter a Simple Guide](https://www.youtube.com/watch?v=cSC4o3cKo0Y)
 - [Flutter App life Cycle Like a Boss - Learn How to Reuse the Logic](https://www.youtube.com/watch?v=xviNPcy8DD4)
-- [Build a Twitter App in 14 minutes with Flutter](https://www.youtube.com/watch?v=3eOn4CtO5hg)
 <!-- YOUTUBE:END -->
 
 ---
