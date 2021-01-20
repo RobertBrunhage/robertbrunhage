@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/vanessahjerpe/personal-portfolio/pull/2) in [vanessahjerpe/personal-portfolio](https://github.com/vanessahjerpe/personal-portfolio)
-2. 💪 Opened PR [#2](https://github.com/vanessahjerpe/personal-portfolio/pull/2) in [vanessahjerpe/personal-portfolio](https://github.com/vanessahjerpe/personal-portfolio)
-3. ❌ Closed PR [#1](https://github.com/vanessahjerpe/personal-portfolio/pull/1) in [vanessahjerpe/personal-portfolio](https://github.com/vanessahjerpe/personal-portfolio)
-4. ❗️ Opened issue [#343](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/issues/343) in [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)
-5. 🗣 Commented on [#44201](https://github.com/dart-lang/sdk/issues/44201) in [dart-lang/sdk](https://github.com/dart-lang/sdk)
+1. ❗️ Opened issue [#78](https://github.com/iamcco/coc-flutter/issues/78) in [iamcco/coc-flutter](https://github.com/iamcco/coc-flutter)
+2. 🎉 Merged PR [#2](https://github.com/vanessahjerpe/personal-portfolio/pull/2) in [vanessahjerpe/personal-portfolio](https://github.com/vanessahjerpe/personal-portfolio)
+3. 💪 Opened PR [#2](https://github.com/vanessahjerpe/personal-portfolio/pull/2) in [vanessahjerpe/personal-portfolio](https://github.com/vanessahjerpe/personal-portfolio)
+4. ❌ Closed PR [#1](https://github.com/vanessahjerpe/personal-portfolio/pull/1) in [vanessahjerpe/personal-portfolio](https://github.com/vanessahjerpe/personal-portfolio)
+5. ❗️ Opened issue [#343](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/issues/343) in [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)
 <!--END_SECTION:activity-->
 
 </details>
