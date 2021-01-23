@@ -20,11 +20,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [10 Flutter Tips to Be More Productive](https://www.youtube.com/watch?v=14VtPQ1aoaU)
 - [Flutter Snackbars - The Improved Way with ScaffoldMessenger](https://www.youtube.com/watch?v=4GTtCFeaSmI)
 - [The Ultimate Flutter Starter Packages I Use 2021](https://www.youtube.com/watch?v=zk-TkfPr3Z0)
 - [The Ultimate Flutter Setup 2021](https://www.youtube.com/watch?v=HhumfOSYFNc)
 - [Channel Update 2021 | What The Future Holds](https://www.youtube.com/watch?v=MzyDf4FT6LY)
-- [Null Safety In Flutter a Simple Guide](https://www.youtube.com/watch?v=cSC4o3cKo0Y)
 <!-- YOUTUBE:END -->
 
 ---
