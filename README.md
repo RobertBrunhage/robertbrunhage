@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#20](https://github.com/RobertBrunhage/website/pull/20) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-2. 💪 Opened PR [#20](https://github.com/RobertBrunhage/website/pull/20) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-3. 🎉 Merged PR [#19](https://github.com/RobertBrunhage/website/pull/19) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-4. 💪 Opened PR [#19](https://github.com/RobertBrunhage/website/pull/19) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-5. ❗️ Opened issue [#18](https://github.com/RobertBrunhage/website/issues/18) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+1. ❗️ Opened issue [#22](https://github.com/RobertBrunhage/website/issues/22) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+2. ❗️ Opened issue [#21](https://github.com/RobertBrunhage/website/issues/21) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+3. 🎉 Merged PR [#20](https://github.com/RobertBrunhage/website/pull/20) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+4. 💪 Opened PR [#20](https://github.com/RobertBrunhage/website/pull/20) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+5. 🎉 Merged PR [#19](https://github.com/RobertBrunhage/website/pull/19) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
 <!--END_SECTION:activity-->
 
 </details>
