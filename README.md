@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/brianegan/new_flutter_template/issues/5) in [brianegan/new_flutter_template](https://github.com/brianegan/new_flutter_template)
-2. 🗣 Commented on [#10](https://github.com/brianegan/new_flutter_template/issues/10) in [brianegan/new_flutter_template](https://github.com/brianegan/new_flutter_template)
-3. 🗣 Commented on [#2](https://github.com/brianegan/new_flutter_template/issues/2) in [brianegan/new_flutter_template](https://github.com/brianegan/new_flutter_template)
-4. 🗣 Commented on [#14](https://github.com/brianegan/new_flutter_template/issues/14) in [brianegan/new_flutter_template](https://github.com/brianegan/new_flutter_template)
-5. 🎉 Merged PR [#27](https://github.com/RobertBrunhage/website/pull/27) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+1. 🗣 Commented on [#4](https://github.com/brianegan/new_flutter_template/issues/4) in [brianegan/new_flutter_template](https://github.com/brianegan/new_flutter_template)
+2. 🗣 Commented on [#12](https://github.com/brianegan/new_flutter_template/issues/12) in [brianegan/new_flutter_template](https://github.com/brianegan/new_flutter_template)
+3. 🗣 Commented on [#5](https://github.com/brianegan/new_flutter_template/issues/5) in [brianegan/new_flutter_template](https://github.com/brianegan/new_flutter_template)
+4. 🗣 Commented on [#10](https://github.com/brianegan/new_flutter_template/issues/10) in [brianegan/new_flutter_template](https://github.com/brianegan/new_flutter_template)
+5. 🗣 Commented on [#2](https://github.com/brianegan/new_flutter_template/issues/2) in [brianegan/new_flutter_template](https://github.com/brianegan/new_flutter_template)
 <!--END_SECTION:activity-->
 
 </details>
