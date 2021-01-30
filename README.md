@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#32](https://github.com/RobertBrunhage/website/issues/32) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-2. 💪 Opened PR [#30](https://github.com/RobertBrunhage/website/pull/30) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-3. 🎉 Merged PR [#29](https://github.com/RobertBrunhage/website/pull/29) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-4. ❗️ Closed issue [#28](https://github.com/RobertBrunhage/website/issues/28) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-5. 🗣 Commented on [#4](https://github.com/brianegan/new_flutter_template/issues/4) in [brianegan/new_flutter_template](https://github.com/brianegan/new_flutter_template)
+1. ❗️ Opened issue [#33](https://github.com/RobertBrunhage/website/issues/33) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+2. 🎉 Merged PR [#30](https://github.com/RobertBrunhage/website/pull/30) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+3. ❗️ Opened issue [#32](https://github.com/RobertBrunhage/website/issues/32) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+4. 💪 Opened PR [#30](https://github.com/RobertBrunhage/website/pull/30) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+5. 🎉 Merged PR [#29](https://github.com/RobertBrunhage/website/pull/29) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
 <!--END_SECTION:activity-->
 
 </details>
