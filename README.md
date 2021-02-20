@@ -20,11 +20,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [My 10 Most Favorite Flutter Widgets](https://www.youtube.com/watch?v=ILATAD57gIc)
 - [Perfect Flutter Codebase using Two Linting Methods](https://www.youtube.com/watch?v=KEdxoubVztk)
 - [Master Documentation in Flutter](https://www.youtube.com/watch?v=UyYZR1LnqOg)
 - [Why Choose Flutter in 2021](https://www.youtube.com/watch?v=KqX-96CI6GM)
 - [10 Flutter Tips to Be More Productive](https://www.youtube.com/watch?v=14VtPQ1aoaU)
-- [Flutter Snackbars - The Improved Way with ScaffoldMessenger](https://www.youtube.com/watch?v=4GTtCFeaSmI)
 <!-- YOUTUBE:END -->
 
 ---
