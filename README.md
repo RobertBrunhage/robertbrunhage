@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/RobertBrunhage/website/pull/42) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-2. 💪 Opened PR [#42](https://github.com/RobertBrunhage/website/pull/42) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-3. 🗣 Commented on [#335](https://github.com/rrousselGit/river_pod/issues/335) in [rrousselGit/river_pod](https://github.com/rrousselGit/river_pod)
+1. 🗣 Commented on [#40](https://github.com/RobertBrunhage/website/issues/40) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+2. 🎉 Merged PR [#42](https://github.com/RobertBrunhage/website/pull/42) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+3. 💪 Opened PR [#42](https://github.com/RobertBrunhage/website/pull/42) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
 4. 🗣 Commented on [#335](https://github.com/rrousselGit/river_pod/issues/335) in [rrousselGit/river_pod](https://github.com/rrousselGit/river_pod)
-5. 🗣 Commented on [#41](https://github.com/RobertBrunhage/website/issues/41) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+5. 🗣 Commented on [#335](https://github.com/rrousselGit/river_pod/issues/335) in [rrousselGit/river_pod](https://github.com/rrousselGit/river_pod)
 <!--END_SECTION:activity-->
 
 </details>
