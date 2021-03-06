@@ -20,11 +20,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Flutter 2.0 in 5 Minutes or Less](https://www.youtube.com/watch?v=xdoH7C2wu7E)
 - [Make Anything in Flutter using RenderObjects](https://www.youtube.com/watch?v=uC3sL5SmizM)
 - [My 10 Most Favorite Flutter Widgets](https://www.youtube.com/watch?v=ILATAD57gIc)
 - [Perfect Flutter Codebase using Two Linting Methods](https://www.youtube.com/watch?v=KEdxoubVztk)
 - [Master Documentation in Flutter](https://www.youtube.com/watch?v=UyYZR1LnqOg)
-- [Why Choose Flutter in 2021](https://www.youtube.com/watch?v=KqX-96CI6GM)
 <!-- YOUTUBE:END -->
 
 ---
