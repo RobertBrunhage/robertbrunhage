@@ -20,11 +20,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Flutter Basics: Updating The UI](https://www.youtube.com/watch?v=Ot7hIAzxj4o)
 - [Flutter Responsive Design Guide](https://www.youtube.com/watch?v=EH92XnCU1Cc)
 - [Flutter 2.0 Recap in 5 Minutes or Less](https://www.youtube.com/watch?v=xdoH7C2wu7E)
 - [Make Anything in Flutter using RenderObjects](https://www.youtube.com/watch?v=uC3sL5SmizM)
 - [My 10 Most Favorite Flutter Widgets](https://www.youtube.com/watch?v=ILATAD57gIc)
-- [Perfect Flutter Codebase using Two Linting Methods](https://www.youtube.com/watch?v=KEdxoubVztk)
 <!-- YOUTUBE:END -->
 
 ---
