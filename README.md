@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2987](https://github.com/neoclide/coc.nvim/issues/2987) in [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim)
-2. 🎉 Merged PR [#49](https://github.com/RobertBrunhage/website/pull/49) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-3. 💪 Opened PR [#49](https://github.com/RobertBrunhage/website/pull/49) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-4. 🎉 Merged PR [#48](https://github.com/RobertBrunhage/website/pull/48) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-5. 💪 Opened PR [#48](https://github.com/RobertBrunhage/website/pull/48) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+1. 🎉 Merged PR [#50](https://github.com/RobertBrunhage/website/pull/50) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+2. 💪 Opened PR [#50](https://github.com/RobertBrunhage/website/pull/50) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+3. ❗️ Opened issue [#2987](https://github.com/neoclide/coc.nvim/issues/2987) in [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim)
+4. 🎉 Merged PR [#49](https://github.com/RobertBrunhage/website/pull/49) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+5. 💪 Opened PR [#49](https://github.com/RobertBrunhage/website/pull/49) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
 <!--END_SECTION:activity-->
 
 </details>
