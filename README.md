@@ -20,11 +20,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [How I Became a Google Developer Expert (GDE)](https://www.youtube.com/watch?v=gIitRv_NfJc)
 - [Flutter Basics: Updating The UI](https://www.youtube.com/watch?v=Ot7hIAzxj4o)
 - [Flutter Responsive Design Guide](https://www.youtube.com/watch?v=EH92XnCU1Cc)
 - [Flutter 2.0 Recap in 5 Minutes or Less](https://www.youtube.com/watch?v=xdoH7C2wu7E)
 - [Make Anything in Flutter using RenderObjects](https://www.youtube.com/watch?v=uC3sL5SmizM)
-- [My 10 Most Favorite Flutter Widgets](https://www.youtube.com/watch?v=ILATAD57gIc)
 <!-- YOUTUBE:END -->
 
 ---
