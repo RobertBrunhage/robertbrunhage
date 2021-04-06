@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35741](https://github.com/flutter/flutter/issues/35741) in [flutter/flutter](https://github.com/flutter/flutter)
-2. 🎉 Merged PR [#52](https://github.com/RobertBrunhage/website/pull/52) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-3. 💪 Opened PR [#52](https://github.com/RobertBrunhage/website/pull/52) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-4. 🗣 Commented on [#26](https://github.com/RobertBrunhage/website/issues/26) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-5. ❗️ Closed issue [#26](https://github.com/RobertBrunhage/website/issues/26) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+1. 🗣 Commented on [#808](https://github.com/sparksuite/simplemde-markdown-editor/issues/808) in [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor)
+2. ❗️ Opened issue [#148](https://github.com/RIP21/react-simplemde-editor/issues/148) in [RIP21/react-simplemde-editor](https://github.com/RIP21/react-simplemde-editor)
+3. 🗣 Commented on [#35741](https://github.com/flutter/flutter/issues/35741) in [flutter/flutter](https://github.com/flutter/flutter)
+4. 🎉 Merged PR [#52](https://github.com/RobertBrunhage/website/pull/52) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+5. 💪 Opened PR [#52](https://github.com/RobertBrunhage/website/pull/52) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
 <!--END_SECTION:activity-->
 
 </details>
