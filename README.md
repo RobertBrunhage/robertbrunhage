@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#54](https://github.com/RobertBrunhage/website/pull/54) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-2. ❗️ Opened issue [#149](https://github.com/RIP21/react-simplemde-editor/issues/149) in [RIP21/react-simplemde-editor](https://github.com/RIP21/react-simplemde-editor)
-3. ❗️ Closed issue [#148](https://github.com/RIP21/react-simplemde-editor/issues/148) in [RIP21/react-simplemde-editor](https://github.com/RIP21/react-simplemde-editor)
-4. 🗣 Commented on [#148](https://github.com/RIP21/react-simplemde-editor/issues/148) in [RIP21/react-simplemde-editor](https://github.com/RIP21/react-simplemde-editor)
-5. 🗣 Commented on [#808](https://github.com/sparksuite/simplemde-markdown-editor/issues/808) in [sparksuite/simplemde-markdown-editor](https://github.com/sparksuite/simplemde-markdown-editor)
+1. 🎉 Merged PR [#54](https://github.com/RobertBrunhage/website/pull/54) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+2. 💪 Opened PR [#54](https://github.com/RobertBrunhage/website/pull/54) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+3. ❗️ Opened issue [#149](https://github.com/RIP21/react-simplemde-editor/issues/149) in [RIP21/react-simplemde-editor](https://github.com/RIP21/react-simplemde-editor)
+4. ❗️ Closed issue [#148](https://github.com/RIP21/react-simplemde-editor/issues/148) in [RIP21/react-simplemde-editor](https://github.com/RIP21/react-simplemde-editor)
+5. 🗣 Commented on [#148](https://github.com/RIP21/react-simplemde-editor/issues/148) in [RIP21/react-simplemde-editor](https://github.com/RIP21/react-simplemde-editor)
 <!--END_SECTION:activity-->
 
 </details>
