@@ -20,7 +20,7 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Add Inline Ads to Your Flutter App](https://www.youtube.com/watch?v=4mJQQmjnL3Q)
+- [Add Google Ads to your Flutter App](https://www.youtube.com/watch?v=4mJQQmjnL3Q)
 - [Build a Chat Application in Flutter](https://www.youtube.com/watch?v=Qhwc9V7VNtc)
 - [How I Became a Google Developer Expert (GDE)](https://www.youtube.com/watch?v=gIitRv_NfJc)
 - [Flutter Basics: Updating The UI](https://www.youtube.com/watch?v=Ot7hIAzxj4o)
