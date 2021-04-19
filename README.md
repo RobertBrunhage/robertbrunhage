@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#55](https://github.com/RobertBrunhage/website/pull/55) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-2. 💪 Opened PR [#55](https://github.com/RobertBrunhage/website/pull/55) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-3. ❗️ Opened issue [#4](https://github.com/ConvertKit/convertkit-react/issues/4) in [ConvertKit/convertkit-react](https://github.com/ConvertKit/convertkit-react)
-4. 🎉 Merged PR [#54](https://github.com/RobertBrunhage/website/pull/54) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-5. 💪 Opened PR [#54](https://github.com/RobertBrunhage/website/pull/54) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+1. 🎉 Merged PR [#56](https://github.com/RobertBrunhage/website/pull/56) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+2. 🗣 Commented on [#56](https://github.com/RobertBrunhage/website/issues/56) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+3. 🎉 Merged PR [#55](https://github.com/RobertBrunhage/website/pull/55) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+4. 💪 Opened PR [#55](https://github.com/RobertBrunhage/website/pull/55) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+5. ❗️ Opened issue [#4](https://github.com/ConvertKit/convertkit-react/issues/4) in [ConvertKit/convertkit-react](https://github.com/ConvertKit/convertkit-react)
 <!--END_SECTION:activity-->
 
 </details>
