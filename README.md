@@ -20,11 +20,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Flutter Vim Setup to Become a 10x Developer](https://www.youtube.com/watch?v=-0RiAlOXGYs)
 - [Flutter Web Opinions & Why I Choose Next](https://www.youtube.com/watch?v=YHhC-7FVo7I)
 - [Add Google Ads to your Flutter App](https://www.youtube.com/watch?v=4mJQQmjnL3Q)
 - [Build a Chat Application in Flutter](https://www.youtube.com/watch?v=Qhwc9V7VNtc)
 - [How I Became a Google Developer Expert (GDE)](https://www.youtube.com/watch?v=gIitRv_NfJc)
-- [Flutter Basics: Updating The UI](https://www.youtube.com/watch?v=Ot7hIAzxj4o)
 <!-- YOUTUBE:END -->
 
 ---
