@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#148](https://github.com/CSFrequency/react-firebase-hooks/issues/148) in [CSFrequency/react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks)
-2. 🎉 Merged PR [#60](https://github.com/RobertBrunhage/website/pull/60) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-3. 💪 Opened PR [#60](https://github.com/RobertBrunhage/website/pull/60) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-4. 🗣 Commented on [#61325](https://github.com/flutter/flutter/issues/61325) in [flutter/flutter](https://github.com/flutter/flutter)
-5. 🗣 Commented on [#185](https://github.com/Xuyuanp/nerdtree-git-plugin/issues/185) in [Xuyuanp/nerdtree-git-plugin](https://github.com/Xuyuanp/nerdtree-git-plugin)
+1. 💪 Opened PR [#61](https://github.com/RobertBrunhage/website/pull/61) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+2. ❗️ Opened issue [#148](https://github.com/CSFrequency/react-firebase-hooks/issues/148) in [CSFrequency/react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks)
+3. 🎉 Merged PR [#60](https://github.com/RobertBrunhage/website/pull/60) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+4. 💪 Opened PR [#60](https://github.com/RobertBrunhage/website/pull/60) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+5. 🗣 Commented on [#61325](https://github.com/flutter/flutter/issues/61325) in [flutter/flutter](https://github.com/flutter/flutter)
 <!--END_SECTION:activity-->
 
 </details>
