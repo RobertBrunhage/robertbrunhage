@@ -33,11 +33,11 @@
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#62](https://github.com/RobertBrunhage/website/pull/62) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-2. 🎉 Merged PR [#61](https://github.com/RobertBrunhage/website/pull/61) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-3. 💪 Opened PR [#61](https://github.com/RobertBrunhage/website/pull/61) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-4. ❗️ Opened issue [#148](https://github.com/CSFrequency/react-firebase-hooks/issues/148) in [CSFrequency/react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks)
-5. 🎉 Merged PR [#60](https://github.com/RobertBrunhage/website/pull/60) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+1. 🎉 Merged PR [#62](https://github.com/RobertBrunhage/website/pull/62) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+2. 💪 Opened PR [#62](https://github.com/RobertBrunhage/website/pull/62) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+3. 🎉 Merged PR [#61](https://github.com/RobertBrunhage/website/pull/61) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+4. 💪 Opened PR [#61](https://github.com/RobertBrunhage/website/pull/61) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+5. ❗️ Opened issue [#148](https://github.com/CSFrequency/react-firebase-hooks/issues/148) in [CSFrequency/react-firebase-hooks](https://github.com/CSFrequency/react-firebase-hooks)
 <!--END_SECTION:activity-->
 
 </details>
