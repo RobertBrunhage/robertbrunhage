@@ -20,11 +20,11 @@
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Flutter 2.2 Recap - Google IO](https://www.youtube.com/watch?v=g6nD-yfioqg)
 - [I Launched a SaaS Product in 43 Days](https://www.youtube.com/watch?v=STp846IvtZw)
 - [Flutter Productivity Beast - FVM](https://www.youtube.com/watch?v=l5HsXg5KlYE)
 - [Vim Tutorial for Beginners](https://www.youtube.com/watch?v=auhZ5t4WX7g)
 - [Flutter Vim Setup to Become a 10x Developer](https://www.youtube.com/watch?v=-0RiAlOXGYs)
-- [Flutter Web Opinions & Why I Choose Next](https://www.youtube.com/watch?v=YHhC-7FVo7I)
 <!-- YOUTUBE:END -->
 
 ---
