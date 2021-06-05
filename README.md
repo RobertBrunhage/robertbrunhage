@@ -22,11 +22,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Flutter Crash Course 2021 - Build a Net Worth Application](https://www.youtube.com/watch?v=ktDo9wH4W_4)
 - [React Crash Course - Build a Production App](https://www.youtube.com/watch?v=Rvz5OM4JHw8)
 - [Flutter 2.2 Recap - Google IO](https://www.youtube.com/watch?v=g6nD-yfioqg)
 - [I Launched a SaaS Product in 43 Days](https://www.youtube.com/watch?v=STp846IvtZw)
 - [Flutter Productivity Beast - FVM](https://www.youtube.com/watch?v=l5HsXg5KlYE)
-- [Vim Tutorial for Beginners](https://www.youtube.com/watch?v=auhZ5t4WX7g)
 <!-- YOUTUBE:END -->
 
 ---
