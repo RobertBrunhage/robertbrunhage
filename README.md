@@ -22,7 +22,7 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [How I made a $1 Animation with Flutter 😂](https://www.youtube.com/watch?v=Uvu5F1auSAQ)
+- [How I made a $1 Animation with Flutter 😎](https://www.youtube.com/watch?v=Uvu5F1auSAQ)
 - [Flutter Roadmap in 3 Simple Steps 😎](https://www.youtube.com/watch?v=6Qe11cyeEXw)
 - [Flutter Crash Course 2021 - Build a Net Worth Application](https://www.youtube.com/watch?v=ktDo9wH4W_4)
 - [React Crash Course - Build a Production App](https://www.youtube.com/watch?v=Rvz5OM4JHw8)
