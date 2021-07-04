@@ -35,10 +35,10 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#66](https://github.com/RobertBrunhage/website/pull/66) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-2. 💪 Opened PR [#66](https://github.com/RobertBrunhage/website/pull/66) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-3. 🗣 Commented on [#58](https://github.com/akinsho/flutter-tools.nvim/issues/58) in [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim)
-4. 🗣 Commented on [#58](https://github.com/akinsho/flutter-tools.nvim/issues/58) in [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim)
+1. 🎉 Merged PR [#67](https://github.com/RobertBrunhage/website/pull/67) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+2. 💪 Opened PR [#67](https://github.com/RobertBrunhage/website/pull/67) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+3. 🎉 Merged PR [#66](https://github.com/RobertBrunhage/website/pull/66) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+4. 💪 Opened PR [#66](https://github.com/RobertBrunhage/website/pull/66) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
 5. 🗣 Commented on [#58](https://github.com/akinsho/flutter-tools.nvim/issues/58) in [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim)
 <!--END_SECTION:activity-->
 
