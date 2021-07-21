@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#68](https://github.com/RobertBrunhage/website/pull/68) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-2. 💪 Opened PR [#68](https://github.com/RobertBrunhage/website/pull/68) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-3. 💪 Opened PR [#9](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/9) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-4. 🎉 Merged PR [#8](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/8) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-5. 🗣 Commented on [#8](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/8) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+1. ❗️ Opened issue [#20](https://github.com/UserNobody14/tree-sitter-dart/issues/20) in [UserNobody14/tree-sitter-dart](https://github.com/UserNobody14/tree-sitter-dart)
+2. 🎉 Merged PR [#68](https://github.com/RobertBrunhage/website/pull/68) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+3. 💪 Opened PR [#68](https://github.com/RobertBrunhage/website/pull/68) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+4. 💪 Opened PR [#9](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/9) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+5. 🎉 Merged PR [#8](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/8) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
 <!--END_SECTION:activity-->
 
 </details>
