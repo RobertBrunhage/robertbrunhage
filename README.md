@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#20](https://github.com/UserNobody14/tree-sitter-dart/issues/20) in [UserNobody14/tree-sitter-dart](https://github.com/UserNobody14/tree-sitter-dart)
-2. 🎉 Merged PR [#68](https://github.com/RobertBrunhage/website/pull/68) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-3. 💪 Opened PR [#68](https://github.com/RobertBrunhage/website/pull/68) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-4. 💪 Opened PR [#9](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/9) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-5. 🎉 Merged PR [#8](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/8) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+1. 🗣 Commented on [#20](https://github.com/UserNobody14/tree-sitter-dart/issues/20) in [UserNobody14/tree-sitter-dart](https://github.com/UserNobody14/tree-sitter-dart)
+2. ❗️ Opened issue [#1612](https://github.com/nvim-treesitter/nvim-treesitter/issues/1612) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+3. 🗣 Commented on [#20](https://github.com/UserNobody14/tree-sitter-dart/issues/20) in [UserNobody14/tree-sitter-dart](https://github.com/UserNobody14/tree-sitter-dart)
+4. ❗️ Opened issue [#20](https://github.com/UserNobody14/tree-sitter-dart/issues/20) in [UserNobody14/tree-sitter-dart](https://github.com/UserNobody14/tree-sitter-dart)
+5. 🎉 Merged PR [#68](https://github.com/RobertBrunhage/website/pull/68) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
 <!--END_SECTION:activity-->
 
 </details>
