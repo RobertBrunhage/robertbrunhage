@@ -36,10 +36,10 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#20](https://github.com/UserNobody14/tree-sitter-dart/issues/20) in [UserNobody14/tree-sitter-dart](https://github.com/UserNobody14/tree-sitter-dart)
-2. ❗️ Opened issue [#1612](https://github.com/nvim-treesitter/nvim-treesitter/issues/1612) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+2. 🗣 Commented on [#20](https://github.com/UserNobody14/tree-sitter-dart/issues/20) in [UserNobody14/tree-sitter-dart](https://github.com/UserNobody14/tree-sitter-dart)
 3. 🗣 Commented on [#20](https://github.com/UserNobody14/tree-sitter-dart/issues/20) in [UserNobody14/tree-sitter-dart](https://github.com/UserNobody14/tree-sitter-dart)
-4. ❗️ Opened issue [#20](https://github.com/UserNobody14/tree-sitter-dart/issues/20) in [UserNobody14/tree-sitter-dart](https://github.com/UserNobody14/tree-sitter-dart)
-5. 🎉 Merged PR [#68](https://github.com/RobertBrunhage/website/pull/68) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+4. ❗️ Opened issue [#1612](https://github.com/nvim-treesitter/nvim-treesitter/issues/1612) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+5. 🗣 Commented on [#20](https://github.com/UserNobody14/tree-sitter-dart/issues/20) in [UserNobody14/tree-sitter-dart](https://github.com/UserNobody14/tree-sitter-dart)
 <!--END_SECTION:activity-->
 
 </details>
