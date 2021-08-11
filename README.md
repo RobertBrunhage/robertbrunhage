@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#70](https://github.com/RobertBrunhage/website/pull/70) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-2. 🎉 Merged PR [#69](https://github.com/RobertBrunhage/website/pull/69) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-3. 🗣 Commented on [#69](https://github.com/RobertBrunhage/website/issues/69) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+1. 🎉 Merged PR [#70](https://github.com/RobertBrunhage/website/pull/70) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+2. 💪 Opened PR [#70](https://github.com/RobertBrunhage/website/pull/70) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+3. 🎉 Merged PR [#69](https://github.com/RobertBrunhage/website/pull/69) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
 4. 🗣 Commented on [#69](https://github.com/RobertBrunhage/website/issues/69) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-5. 🗣 Commented on [#7](https://github.com/RobertBrunhage/website/issues/7) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+5. 🗣 Commented on [#69](https://github.com/RobertBrunhage/website/issues/69) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
 <!--END_SECTION:activity-->
 
 </details>
