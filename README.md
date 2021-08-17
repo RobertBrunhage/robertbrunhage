@@ -22,7 +22,7 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [15 Flutter HIGH VALUE Tips and Tricks](https://www.youtube.com/watch?v=Y8KIp5_zeiM)
+- [Top 15 Flutter Tips and Tricks](https://www.youtube.com/watch?v=Y8KIp5_zeiM)
 - [I Made a Game in Flutter](https://www.youtube.com/watch?v=AfDYTOK_tfM)
 - [I Redesigned Your Apps](https://www.youtube.com/watch?v=Tz7Vn7RsROQ)
 - [Top 5 Flutter Tips for Big Projects](https://www.youtube.com/watch?v=QETClbz1sz8)
