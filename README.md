@@ -23,8 +23,8 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [15 Flutter Tips That MIGHT Improve Your Work](https://www.youtube.com/watch?v=Y8KIp5_zeiM)
-- [I Made a Game in Flutter](https://www.youtube.com/watch?v=AfDYTOK_tfM)
-- [I Redesigned Your Apps](https://www.youtube.com/watch?v=Tz7Vn7RsROQ)
+- [Making a Cross Platform Game in Flutter](https://www.youtube.com/watch?v=AfDYTOK_tfM)
+- [Make Designs Look Great with Minimal Effort](https://www.youtube.com/watch?v=Tz7Vn7RsROQ)
 - [Top 5 Flutter Tips for Big Projects](https://www.youtube.com/watch?v=QETClbz1sz8)
 - [How I made a $1 Animation with Flutter 😎](https://www.youtube.com/watch?v=Uvu5F1auSAQ)
 <!-- YOUTUBE:END -->
