@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#73](https://github.com/RobertBrunhage/website/pull/73) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-2. ❗️ Closed issue [#2](https://github.com/RobertBrunhage/flutter_firebase_auth_tutorial/issues/2) in [RobertBrunhage/flutter_firebase_auth_tutorial](https://github.com/RobertBrunhage/flutter_firebase_auth_tutorial)
-3. 🗣 Commented on [#2](https://github.com/RobertBrunhage/flutter_firebase_auth_tutorial/issues/2) in [RobertBrunhage/flutter_firebase_auth_tutorial](https://github.com/RobertBrunhage/flutter_firebase_auth_tutorial)
-4. 🎉 Merged PR [#70](https://github.com/RobertBrunhage/website/pull/70) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-5. 💪 Opened PR [#70](https://github.com/RobertBrunhage/website/pull/70) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+1. 🎉 Merged PR [#75](https://github.com/RobertBrunhage/website/pull/75) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+2. 🎉 Merged PR [#73](https://github.com/RobertBrunhage/website/pull/73) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+3. ❗️ Closed issue [#2](https://github.com/RobertBrunhage/flutter_firebase_auth_tutorial/issues/2) in [RobertBrunhage/flutter_firebase_auth_tutorial](https://github.com/RobertBrunhage/flutter_firebase_auth_tutorial)
+4. 🗣 Commented on [#2](https://github.com/RobertBrunhage/flutter_firebase_auth_tutorial/issues/2) in [RobertBrunhage/flutter_firebase_auth_tutorial](https://github.com/RobertBrunhage/flutter_firebase_auth_tutorial)
+5. 🎉 Merged PR [#70](https://github.com/RobertBrunhage/website/pull/70) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
 <!--END_SECTION:activity-->
 
 </details>
