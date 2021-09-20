@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#74](https://github.com/RobertBrunhage/website/issues/74) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-2. 🎉 Merged PR [#75](https://github.com/RobertBrunhage/website/pull/75) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-3. 🎉 Merged PR [#73](https://github.com/RobertBrunhage/website/pull/73) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-4. ❗️ Closed issue [#2](https://github.com/RobertBrunhage/flutter_firebase_auth_tutorial/issues/2) in [RobertBrunhage/flutter_firebase_auth_tutorial](https://github.com/RobertBrunhage/flutter_firebase_auth_tutorial)
-5. 🗣 Commented on [#2](https://github.com/RobertBrunhage/flutter_firebase_auth_tutorial/issues/2) in [RobertBrunhage/flutter_firebase_auth_tutorial](https://github.com/RobertBrunhage/flutter_firebase_auth_tutorial)
+1. 🗣 Commented on [#744](https://github.com/rrousselGit/river_pod/issues/744) in [rrousselGit/river_pod](https://github.com/rrousselGit/river_pod)
+2. 🗣 Commented on [#74](https://github.com/RobertBrunhage/website/issues/74) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+3. 🎉 Merged PR [#75](https://github.com/RobertBrunhage/website/pull/75) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+4. 🎉 Merged PR [#73](https://github.com/RobertBrunhage/website/pull/73) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+5. ❗️ Closed issue [#2](https://github.com/RobertBrunhage/flutter_firebase_auth_tutorial/issues/2) in [RobertBrunhage/flutter_firebase_auth_tutorial](https://github.com/RobertBrunhage/flutter_firebase_auth_tutorial)
 <!--END_SECTION:activity-->
 
 </details>
