@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#744](https://github.com/rrousselGit/river_pod/issues/744) in [rrousselGit/river_pod](https://github.com/rrousselGit/river_pod)
-2. 🗣 Commented on [#744](https://github.com/rrousselGit/river_pod/issues/744) in [rrousselGit/river_pod](https://github.com/rrousselGit/river_pod)
+1. 🎉 Merged PR [#76](https://github.com/RobertBrunhage/website/pull/76) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+2. 💪 Opened PR [#76](https://github.com/RobertBrunhage/website/pull/76) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
 3. 🗣 Commented on [#744](https://github.com/rrousselGit/river_pod/issues/744) in [rrousselGit/river_pod](https://github.com/rrousselGit/river_pod)
-4. 🗣 Commented on [#74](https://github.com/RobertBrunhage/website/issues/74) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-5. 🎉 Merged PR [#75](https://github.com/RobertBrunhage/website/pull/75) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+4. 🗣 Commented on [#744](https://github.com/rrousselGit/river_pod/issues/744) in [rrousselGit/river_pod](https://github.com/rrousselGit/river_pod)
+5. 🗣 Commented on [#744](https://github.com/rrousselGit/river_pod/issues/744) in [rrousselGit/river_pod](https://github.com/rrousselGit/river_pod)
 <!--END_SECTION:activity-->
 
 </details>
