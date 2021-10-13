@@ -22,7 +22,7 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Productivity Desk Setup 2021 - YouTuber and Developer](https://www.youtube.com/watch?v=N2mSmsSWGsk)
+- [My Ultimate Desk Setup for Productivity and Fun](https://www.youtube.com/watch?v=N2mSmsSWGsk)
 - [Ultimate Flutter Course is now LIVE | Learn How to build Scalable Applications](https://www.youtube.com/watch?v=zUHNjjRjasc)
 - [15 Flutter Tips That MIGHT Improve Your Work](https://www.youtube.com/watch?v=Y8KIp5_zeiM)
 - [Making a Cross Platform Game in Flutter](https://www.youtube.com/watch?v=AfDYTOK_tfM)
