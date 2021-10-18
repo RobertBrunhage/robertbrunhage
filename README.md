@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#753](https://github.com/asvetliakov/vscode-neovim/issues/753) in [asvetliakov/vscode-neovim](https://github.com/asvetliakov/vscode-neovim)
-2. 🎉 Merged PR [#81](https://github.com/RobertBrunhage/website/pull/81) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-3. 💪 Opened PR [#81](https://github.com/RobertBrunhage/website/pull/81) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-4. 🎉 Merged PR [#79](https://github.com/RobertBrunhage/website/pull/79) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-5. 💪 Opened PR [#79](https://github.com/RobertBrunhage/website/pull/79) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+1. 🎉 Merged PR [#82](https://github.com/RobertBrunhage/website/pull/82) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+2. 💪 Opened PR [#82](https://github.com/RobertBrunhage/website/pull/82) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+3. ❗️ Opened issue [#753](https://github.com/asvetliakov/vscode-neovim/issues/753) in [asvetliakov/vscode-neovim](https://github.com/asvetliakov/vscode-neovim)
+4. 🎉 Merged PR [#81](https://github.com/RobertBrunhage/website/pull/81) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+5. 💪 Opened PR [#81](https://github.com/RobertBrunhage/website/pull/81) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
 <!--END_SECTION:activity-->
 
 </details>
