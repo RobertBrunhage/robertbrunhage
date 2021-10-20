@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24](https://github.com/tadaspetra/conveneapp/issues/24) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
-2. 🗣 Commented on [#27](https://github.com/tadaspetra/conveneapp/issues/27) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
-3. ❗️ Opened issue [#27](https://github.com/tadaspetra/conveneapp/issues/27) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
-4. 🎉 Merged PR [#82](https://github.com/RobertBrunhage/website/pull/82) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-5. 💪 Opened PR [#82](https://github.com/RobertBrunhage/website/pull/82) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+1. 🗣 Commented on [#31](https://github.com/tadaspetra/conveneapp/issues/31) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
+2. 🗣 Commented on [#24](https://github.com/tadaspetra/conveneapp/issues/24) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
+3. 🗣 Commented on [#27](https://github.com/tadaspetra/conveneapp/issues/27) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
+4. ❗️ Opened issue [#27](https://github.com/tadaspetra/conveneapp/issues/27) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
+5. 🎉 Merged PR [#82](https://github.com/RobertBrunhage/website/pull/82) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
 <!--END_SECTION:activity-->
 
 </details>
