@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/tadaspetra/conveneapp/issues/38) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
-2. 🗣 Commented on [#38](https://github.com/tadaspetra/conveneapp/issues/38) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
-3. ❗️ Opened issue [#38](https://github.com/tadaspetra/conveneapp/issues/38) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
-4. 🗣 Commented on [#16](https://github.com/tadaspetra/conveneapp/issues/16) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
-5. 🗣 Commented on [#16](https://github.com/tadaspetra/conveneapp/issues/16) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
+1. 🗣 Commented on [#40](https://github.com/tadaspetra/conveneapp/issues/40) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
+2. 🗣 Commented on [#40](https://github.com/tadaspetra/conveneapp/issues/40) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
+3. 🗣 Commented on [#40](https://github.com/tadaspetra/conveneapp/issues/40) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
+4. 🗣 Commented on [#38](https://github.com/tadaspetra/conveneapp/issues/38) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
+5. 🗣 Commented on [#38](https://github.com/tadaspetra/conveneapp/issues/38) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
 <!--END_SECTION:activity-->
 
 </details>
