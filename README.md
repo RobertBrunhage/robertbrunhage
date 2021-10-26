@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#57](https://github.com/tadaspetra/conveneapp/issues/57) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
-2. 🗣 Commented on [#4](https://github.com/tadaspetra/conveneapp/issues/4) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
-3. 🗣 Commented on [#80](https://github.com/RobertBrunhage/website/issues/80) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-4. 🎉 Merged PR [#85](https://github.com/RobertBrunhage/website/pull/85) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-5. 💪 Opened PR [#85](https://github.com/RobertBrunhage/website/pull/85) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+1. 🗣 Commented on [#61](https://github.com/tadaspetra/conveneapp/issues/61) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
+2. 🗣 Commented on [#57](https://github.com/tadaspetra/conveneapp/issues/57) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
+3. 🗣 Commented on [#4](https://github.com/tadaspetra/conveneapp/issues/4) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
+4. 🗣 Commented on [#80](https://github.com/RobertBrunhage/website/issues/80) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+5. 🎉 Merged PR [#85](https://github.com/RobertBrunhage/website/pull/85) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
 <!--END_SECTION:activity-->
 
 </details>
