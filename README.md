@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/Robert-Brunhage-Organization/movie_recommendation_app_course/issues/1) in [Robert-Brunhage-Organization/movie_recommendation_app_course](https://github.com/Robert-Brunhage-Organization/movie_recommendation_app_course)
-2. 🗣 Commented on [#1](https://github.com/Robert-Brunhage-Organization/movie_recommendation_app_course/issues/1) in [Robert-Brunhage-Organization/movie_recommendation_app_course](https://github.com/Robert-Brunhage-Organization/movie_recommendation_app_course)
-3. 🗣 Commented on [#61](https://github.com/tadaspetra/conveneapp/issues/61) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
-4. 🗣 Commented on [#57](https://github.com/tadaspetra/conveneapp/issues/57) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
-5. 🗣 Commented on [#4](https://github.com/tadaspetra/conveneapp/issues/4) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
+1. 🎉 Merged PR [#9](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/9) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+2. ❗️ Closed issue [#1](https://github.com/Robert-Brunhage-Organization/movie_recommendation_app_course/issues/1) in [Robert-Brunhage-Organization/movie_recommendation_app_course](https://github.com/Robert-Brunhage-Organization/movie_recommendation_app_course)
+3. 🗣 Commented on [#1](https://github.com/Robert-Brunhage-Organization/movie_recommendation_app_course/issues/1) in [Robert-Brunhage-Organization/movie_recommendation_app_course](https://github.com/Robert-Brunhage-Organization/movie_recommendation_app_course)
+4. 🗣 Commented on [#61](https://github.com/tadaspetra/conveneapp/issues/61) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
+5. 🗣 Commented on [#57](https://github.com/tadaspetra/conveneapp/issues/57) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
 <!--END_SECTION:activity-->
 
 </details>
