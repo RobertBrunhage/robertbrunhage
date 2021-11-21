@@ -36,10 +36,10 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#47](https://github.com/supabase/supabase-flutter/issues/47) in [supabase/supabase-flutter](https://github.com/supabase/supabase-flutter)
-2. ❗️ Opened issue [#47](https://github.com/supabase/supabase-flutter/issues/47) in [supabase/supabase-flutter](https://github.com/supabase/supabase-flutter)
-3. 🎉 Merged PR [#63](https://github.com/tadaspetra/conveneapp/pull/63) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
-4. ❗️ Closed issue [#62](https://github.com/tadaspetra/conveneapp/issues/62) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
-5. 🎉 Merged PR [#9](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/9) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+2. 🗣 Commented on [#47](https://github.com/supabase/supabase-flutter/issues/47) in [supabase/supabase-flutter](https://github.com/supabase/supabase-flutter)
+3. ❗️ Opened issue [#47](https://github.com/supabase/supabase-flutter/issues/47) in [supabase/supabase-flutter](https://github.com/supabase/supabase-flutter)
+4. 🎉 Merged PR [#63](https://github.com/tadaspetra/conveneapp/pull/63) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
+5. ❗️ Closed issue [#62](https://github.com/tadaspetra/conveneapp/issues/62) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
 <!--END_SECTION:activity-->
 
 </details>
