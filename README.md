@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#47](https://github.com/supabase/supabase-flutter/issues/47) in [supabase/supabase-flutter](https://github.com/supabase/supabase-flutter)
-2. 🗣 Commented on [#47](https://github.com/supabase/supabase-flutter/issues/47) in [supabase/supabase-flutter](https://github.com/supabase/supabase-flutter)
-3. ❗️ Opened issue [#47](https://github.com/supabase/supabase-flutter/issues/47) in [supabase/supabase-flutter](https://github.com/supabase/supabase-flutter)
-4. 🎉 Merged PR [#63](https://github.com/tadaspetra/conveneapp/pull/63) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
-5. ❗️ Closed issue [#62](https://github.com/tadaspetra/conveneapp/issues/62) in [tadaspetra/conveneapp](https://github.com/tadaspetra/conveneapp)
+1. 🎉 Merged PR [#84](https://github.com/RobertBrunhage/website/pull/84) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+2. 🎉 Merged PR [#86](https://github.com/RobertBrunhage/website/pull/86) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+3. 🗣 Commented on [#47](https://github.com/supabase/supabase-flutter/issues/47) in [supabase/supabase-flutter](https://github.com/supabase/supabase-flutter)
+4. 🗣 Commented on [#47](https://github.com/supabase/supabase-flutter/issues/47) in [supabase/supabase-flutter](https://github.com/supabase/supabase-flutter)
+5. ❗️ Opened issue [#47](https://github.com/supabase/supabase-flutter/issues/47) in [supabase/supabase-flutter](https://github.com/supabase/supabase-flutter)
 <!--END_SECTION:activity-->
 
 </details>
