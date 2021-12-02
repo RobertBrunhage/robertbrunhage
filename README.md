@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#4248](https://github.com/supabase/supabase/issues/4248) in [supabase/supabase](https://github.com/supabase/supabase)
-2. ❗️ Opened issue [#4208](https://github.com/supabase/supabase/issues/4208) in [supabase/supabase](https://github.com/supabase/supabase)
-3. 🎉 Merged PR [#89](https://github.com/RobertBrunhage/website/pull/89) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-4. ❗️ Closed issue [#88](https://github.com/RobertBrunhage/website/issues/88) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-5. 💪 Opened PR [#89](https://github.com/RobertBrunhage/website/pull/89) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+1. ❗️ Closed issue [#4208](https://github.com/supabase/supabase/issues/4208) in [supabase/supabase](https://github.com/supabase/supabase)
+2. 🗣 Commented on [#4208](https://github.com/supabase/supabase/issues/4208) in [supabase/supabase](https://github.com/supabase/supabase)
+3. ❗️ Opened issue [#4248](https://github.com/supabase/supabase/issues/4248) in [supabase/supabase](https://github.com/supabase/supabase)
+4. ❗️ Opened issue [#4208](https://github.com/supabase/supabase/issues/4208) in [supabase/supabase](https://github.com/supabase/supabase)
+5. 🎉 Merged PR [#89](https://github.com/RobertBrunhage/website/pull/89) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
 <!--END_SECTION:activity-->
 
 </details>
