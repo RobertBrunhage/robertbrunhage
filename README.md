@@ -36,10 +36,10 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#47](https://github.com/supabase/supabase-flutter/issues/47) in [supabase/supabase-flutter](https://github.com/supabase/supabase-flutter)
-2. ❗️ Closed issue [#4208](https://github.com/supabase/supabase/issues/4208) in [supabase/supabase](https://github.com/supabase/supabase)
-3. 🗣 Commented on [#4208](https://github.com/supabase/supabase/issues/4208) in [supabase/supabase](https://github.com/supabase/supabase)
-4. ❗️ Opened issue [#4248](https://github.com/supabase/supabase/issues/4248) in [supabase/supabase](https://github.com/supabase/supabase)
-5. ❗️ Opened issue [#4208](https://github.com/supabase/supabase/issues/4208) in [supabase/supabase](https://github.com/supabase/supabase)
+2. 🗣 Commented on [#47](https://github.com/supabase/supabase-flutter/issues/47) in [supabase/supabase-flutter](https://github.com/supabase/supabase-flutter)
+3. ❗️ Closed issue [#4208](https://github.com/supabase/supabase/issues/4208) in [supabase/supabase](https://github.com/supabase/supabase)
+4. 🗣 Commented on [#4208](https://github.com/supabase/supabase/issues/4208) in [supabase/supabase](https://github.com/supabase/supabase)
+5. ❗️ Opened issue [#4248](https://github.com/supabase/supabase/issues/4248) in [supabase/supabase](https://github.com/supabase/supabase)
 <!--END_SECTION:activity-->
 
 </details>
