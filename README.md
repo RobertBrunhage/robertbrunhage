@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#189](https://github.com/AppsFlyerSDK/appsflyer-flutter-plugin/issues/189) in [AppsFlyerSDK/appsflyer-flutter-plugin](https://github.com/AppsFlyerSDK/appsflyer-flutter-plugin)
-2. ❗️ Opened issue [#56](https://github.com/supabase/supabase-flutter/issues/56) in [supabase/supabase-flutter](https://github.com/supabase/supabase-flutter)
-3. ❗️ Opened issue [#92](https://github.com/RobertBrunhage/website/issues/92) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-4. 🎉 Merged PR [#91](https://github.com/RobertBrunhage/website/pull/91) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-5. 💪 Opened PR [#91](https://github.com/RobertBrunhage/website/pull/91) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+1. ❗️ Closed issue [#92](https://github.com/RobertBrunhage/website/issues/92) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+2. ❗️ Opened issue [#189](https://github.com/AppsFlyerSDK/appsflyer-flutter-plugin/issues/189) in [AppsFlyerSDK/appsflyer-flutter-plugin](https://github.com/AppsFlyerSDK/appsflyer-flutter-plugin)
+3. ❗️ Opened issue [#56](https://github.com/supabase/supabase-flutter/issues/56) in [supabase/supabase-flutter](https://github.com/supabase/supabase-flutter)
+4. ❗️ Opened issue [#92](https://github.com/RobertBrunhage/website/issues/92) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+5. 🎉 Merged PR [#91](https://github.com/RobertBrunhage/website/pull/91) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
 <!--END_SECTION:activity-->
 
 </details>
