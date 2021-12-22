@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#93](https://github.com/RobertBrunhage/website/pull/93) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-2. 💪 Opened PR [#93](https://github.com/RobertBrunhage/website/pull/93) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-3. ❗️ Closed issue [#92](https://github.com/RobertBrunhage/website/issues/92) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-4. ❗️ Opened issue [#189](https://github.com/AppsFlyerSDK/appsflyer-flutter-plugin/issues/189) in [AppsFlyerSDK/appsflyer-flutter-plugin](https://github.com/AppsFlyerSDK/appsflyer-flutter-plugin)
-5. ❗️ Opened issue [#56](https://github.com/supabase/supabase-flutter/issues/56) in [supabase/supabase-flutter](https://github.com/supabase/supabase-flutter)
+1. 🎉 Merged PR [#8](https://github.com/RobertBrunhage/budget_together/pull/8) in [RobertBrunhage/budget_together](https://github.com/RobertBrunhage/budget_together)
+2. 💪 Opened PR [#8](https://github.com/RobertBrunhage/budget_together/pull/8) in [RobertBrunhage/budget_together](https://github.com/RobertBrunhage/budget_together)
+3. 🎉 Merged PR [#93](https://github.com/RobertBrunhage/website/pull/93) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+4. 💪 Opened PR [#93](https://github.com/RobertBrunhage/website/pull/93) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+5. ❗️ Closed issue [#92](https://github.com/RobertBrunhage/website/issues/92) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
 <!--END_SECTION:activity-->
 
 </details>
