@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/RobertBrunhage/budget_together/pull/8) in [RobertBrunhage/budget_together](https://github.com/RobertBrunhage/budget_together)
-2. 💪 Opened PR [#8](https://github.com/RobertBrunhage/budget_together/pull/8) in [RobertBrunhage/budget_together](https://github.com/RobertBrunhage/budget_together)
-3. 🎉 Merged PR [#93](https://github.com/RobertBrunhage/website/pull/93) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-4. 💪 Opened PR [#93](https://github.com/RobertBrunhage/website/pull/93) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-5. ❗️ Closed issue [#92](https://github.com/RobertBrunhage/website/issues/92) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+1. ❗️ Closed issue [#2](https://github.com/Robert-Brunhage-Organization/movie_recommendation_app_course/issues/2) in [Robert-Brunhage-Organization/movie_recommendation_app_course](https://github.com/Robert-Brunhage-Organization/movie_recommendation_app_course)
+2. 🗣 Commented on [#2](https://github.com/Robert-Brunhage-Organization/movie_recommendation_app_course/issues/2) in [Robert-Brunhage-Organization/movie_recommendation_app_course](https://github.com/Robert-Brunhage-Organization/movie_recommendation_app_course)
+3. 🎉 Merged PR [#8](https://github.com/RobertBrunhage/budget_together/pull/8) in [RobertBrunhage/budget_together](https://github.com/RobertBrunhage/budget_together)
+4. 💪 Opened PR [#8](https://github.com/RobertBrunhage/budget_together/pull/8) in [RobertBrunhage/budget_together](https://github.com/RobertBrunhage/budget_together)
+5. 🎉 Merged PR [#93](https://github.com/RobertBrunhage/website/pull/93) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
 <!--END_SECTION:activity-->
 
 </details>
