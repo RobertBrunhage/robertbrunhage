@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/16) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-2. 💪 Opened PR [#16](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/16) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-3. 🗣 Commented on [#12](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/12) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-4. 🗣 Commented on [#14](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/14) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-5. 🎉 Merged PR [#15](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/15) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+1. ❗️ Opened issue [#850](https://github.com/EclipseFdn/open-vsx.org/issues/850) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
+2. 🎉 Merged PR [#18](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/18) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+3. 💪 Opened PR [#18](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/18) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+4. 🎉 Merged PR [#17](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/17) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+5. 💪 Opened PR [#17](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/17) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
 <!--END_SECTION:activity-->
 
 </details>
