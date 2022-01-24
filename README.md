@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/14) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-2. 🗣 Commented on [#13](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/13) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-3. 🗣 Commented on [#11](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/11) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-4. 🎉 Merged PR [#94](https://github.com/RobertBrunhage/website/pull/94) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-5. ❗️ Closed issue [#2](https://github.com/Robert-Brunhage-Organization/movie_recommendation_app_course/issues/2) in [Robert-Brunhage-Organization/movie_recommendation_app_course](https://github.com/Robert-Brunhage-Organization/movie_recommendation_app_course)
+1. 🎉 Merged PR [#16](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/16) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+2. 💪 Opened PR [#16](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/16) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+3. 🗣 Commented on [#12](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/12) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+4. 🗣 Commented on [#14](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/14) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+5. 🎉 Merged PR [#15](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/15) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
 <!--END_SECTION:activity-->
 
 </details>
