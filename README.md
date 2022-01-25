@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#95](https://github.com/RobertBrunhage/website/pull/95) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-2. 💪 Opened PR [#95](https://github.com/RobertBrunhage/website/pull/95) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-3. ❗️ Opened issue [#850](https://github.com/EclipseFdn/open-vsx.org/issues/850) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
-4. 🎉 Merged PR [#18](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/18) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-5. 💪 Opened PR [#18](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/18) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+1. 🎉 Merged PR [#19](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/19) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+2. 💪 Opened PR [#19](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/19) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+3. 🎉 Merged PR [#95](https://github.com/RobertBrunhage/website/pull/95) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+4. 💪 Opened PR [#95](https://github.com/RobertBrunhage/website/pull/95) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+5. ❗️ Opened issue [#850](https://github.com/EclipseFdn/open-vsx.org/issues/850) in [EclipseFdn/open-vsx.org](https://github.com/EclipseFdn/open-vsx.org)
 <!--END_SECTION:activity-->
 
 </details>
