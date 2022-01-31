@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#98](https://github.com/RobertBrunhage/website/pull/98) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-2. 💪 Opened PR [#97](https://github.com/RobertBrunhage/website/pull/97) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-3. 🗣 Commented on [#90](https://github.com/RobertBrunhage/website/issues/90) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-4. ❗️ Closed issue [#90](https://github.com/RobertBrunhage/website/issues/90) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-5. 🎉 Merged PR [#96](https://github.com/RobertBrunhage/website/pull/96) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+1. 🎉 Merged PR [#97](https://github.com/RobertBrunhage/website/pull/97) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+2. 🎉 Merged PR [#98](https://github.com/RobertBrunhage/website/pull/98) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+3. 💪 Opened PR [#97](https://github.com/RobertBrunhage/website/pull/97) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+4. 🗣 Commented on [#90](https://github.com/RobertBrunhage/website/issues/90) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+5. ❗️ Closed issue [#90](https://github.com/RobertBrunhage/website/issues/90) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
 <!--END_SECTION:activity-->
 
 </details>
