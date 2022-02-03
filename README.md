@@ -22,11 +22,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Flutter 2.10 - What&#39;s new?](https://www.youtube.com/watch?v=nsv38P6vmmw)
 - [Code Sharing in Flutter is Powerful](https://www.youtube.com/watch?v=IN5mxeUPfxQ)
 - [How To Install Flutter Like A Pro](https://www.youtube.com/watch?v=ZIHzZlgsHNw)
 - [Stacked Monitor Desk Setup 2021](https://www.youtube.com/watch?v=N2mSmsSWGsk)
 - [Ultimate Flutter Course is now LIVE | Learn How to build Scalable Applications](https://www.youtube.com/watch?v=zUHNjjRjasc)
-- [15 Flutter Tips That MIGHT Improve Your Work](https://www.youtube.com/watch?v=Y8KIp5_zeiM)
 <!-- YOUTUBE:END -->
 
 ---
