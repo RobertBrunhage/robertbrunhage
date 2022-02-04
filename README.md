@@ -22,7 +22,7 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
-- [Flutter 2.10 - What&#39;s new?](https://www.youtube.com/watch?v=nsv38P6vmmw)
+- [Flutter 2.10 - 2 Min Recap](https://www.youtube.com/watch?v=nsv38P6vmmw)
 - [Code Sharing in Flutter is Powerful](https://www.youtube.com/watch?v=IN5mxeUPfxQ)
 - [How To Install Flutter Like A Pro](https://www.youtube.com/watch?v=ZIHzZlgsHNw)
 - [Stacked Monitor Desk Setup 2021](https://www.youtube.com/watch?v=N2mSmsSWGsk)
