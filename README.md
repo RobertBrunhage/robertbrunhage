@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#106](https://github.com/RobertBrunhage/website/pull/106) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-2. 💪 Opened PR [#106](https://github.com/RobertBrunhage/website/pull/106) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-3. ❗️ Opened issue [#87](https://github.com/kabinspace/AstroVim/issues/87) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
-4. 🎉 Merged PR [#105](https://github.com/RobertBrunhage/website/pull/105) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-5. 💪 Opened PR [#105](https://github.com/RobertBrunhage/website/pull/105) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+1. 🎉 Merged PR [#107](https://github.com/RobertBrunhage/website/pull/107) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+2. 💪 Opened PR [#107](https://github.com/RobertBrunhage/website/pull/107) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+3. 🎉 Merged PR [#106](https://github.com/RobertBrunhage/website/pull/106) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+4. 💪 Opened PR [#106](https://github.com/RobertBrunhage/website/pull/106) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+5. ❗️ Opened issue [#87](https://github.com/kabinspace/AstroVim/issues/87) in [kabinspace/AstroVim](https://github.com/kabinspace/AstroVim)
 <!--END_SECTION:activity-->
 
 </details>
