@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#144](https://github.com/akinsho/flutter-tools.nvim/issues/144) in [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim)
-2. ❗️ Closed issue [#111](https://github.com/RobertBrunhage/website/issues/111) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-3. 🗣 Commented on [#110](https://github.com/RobertBrunhage/website/issues/110) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-4. ❌ Closed PR [#40](https://github.com/RobertBrunhage/website/pull/40) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-5. 🗣 Commented on [#40](https://github.com/RobertBrunhage/website/issues/40) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+1. 🗣 Commented on [#144](https://github.com/akinsho/flutter-tools.nvim/issues/144) in [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim)
+2. ❗️ Opened issue [#144](https://github.com/akinsho/flutter-tools.nvim/issues/144) in [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim)
+3. ❗️ Closed issue [#111](https://github.com/RobertBrunhage/website/issues/111) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+4. 🗣 Commented on [#110](https://github.com/RobertBrunhage/website/issues/110) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+5. ❌ Closed PR [#40](https://github.com/RobertBrunhage/website/pull/40) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
 <!--END_SECTION:activity-->
 
 </details>
