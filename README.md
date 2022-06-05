@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#112](https://github.com/RobertBrunhage/website/pull/112) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-2. 🗣 Commented on [#144](https://github.com/akinsho/flutter-tools.nvim/issues/144) in [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim)
+1. 🗣 Commented on [#57](https://github.com/akinsho/flutter-tools.nvim/issues/57) in [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim)
+2. 💪 Opened PR [#112](https://github.com/RobertBrunhage/website/pull/112) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
 3. 🗣 Commented on [#144](https://github.com/akinsho/flutter-tools.nvim/issues/144) in [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim)
-4. ❗️ Opened issue [#144](https://github.com/akinsho/flutter-tools.nvim/issues/144) in [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim)
-5. ❗️ Closed issue [#111](https://github.com/RobertBrunhage/website/issues/111) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+4. 🗣 Commented on [#144](https://github.com/akinsho/flutter-tools.nvim/issues/144) in [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim)
+5. ❗️ Opened issue [#144](https://github.com/akinsho/flutter-tools.nvim/issues/144) in [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim)
 <!--END_SECTION:activity-->
 
 </details>
