@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#75](https://github.com/ThePrimeagen/git-worktree.nvim/issues/75) in [ThePrimeagen/git-worktree.nvim](https://github.com/ThePrimeagen/git-worktree.nvim)
-2. ❗️ Closed issue [#144](https://github.com/akinsho/flutter-tools.nvim/issues/144) in [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim)
-3. 🗣 Commented on [#144](https://github.com/akinsho/flutter-tools.nvim/issues/144) in [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim)
-4. 🗣 Commented on [#11945](https://github.com/microsoft/terminal/issues/11945) in [microsoft/terminal](https://github.com/microsoft/terminal)
-5. 🗣 Commented on [#9](https://github.com/equalsraf/win32yank/issues/9) in [equalsraf/win32yank](https://github.com/equalsraf/win32yank)
+1. 🗣 Commented on [#107134](https://github.com/flutter/flutter/issues/107134) in [flutter/flutter](https://github.com/flutter/flutter)
+2. ❗️ Opened issue [#107134](https://github.com/flutter/flutter/issues/107134) in [flutter/flutter](https://github.com/flutter/flutter)
+3. 🗣 Commented on [#75](https://github.com/ThePrimeagen/git-worktree.nvim/issues/75) in [ThePrimeagen/git-worktree.nvim](https://github.com/ThePrimeagen/git-worktree.nvim)
+4. ❗️ Closed issue [#144](https://github.com/akinsho/flutter-tools.nvim/issues/144) in [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim)
+5. 🗣 Commented on [#144](https://github.com/akinsho/flutter-tools.nvim/issues/144) in [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim)
 <!--END_SECTION:activity-->
 
 </details>
