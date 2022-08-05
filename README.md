@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#556](https://github.com/getsentry/sentry-dart/issues/556) in [getsentry/sentry-dart](https://github.com/getsentry/sentry-dart)
-2. ❗️ Closed issue [#189](https://github.com/AppsFlyerSDK/appsflyer-flutter-plugin/issues/189) in [AppsFlyerSDK/appsflyer-flutter-plugin](https://github.com/AppsFlyerSDK/appsflyer-flutter-plugin)
-3. 🗣 Commented on [#189](https://github.com/AppsFlyerSDK/appsflyer-flutter-plugin/issues/189) in [AppsFlyerSDK/appsflyer-flutter-plugin](https://github.com/AppsFlyerSDK/appsflyer-flutter-plugin)
-4. 🗣 Commented on [#121](https://github.com/akinsho/flutter-tools.nvim/issues/121) in [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim)
-5. ❗️ Closed issue [#24](https://github.com/braze-inc/braze-flutter-sdk/issues/24) in [braze-inc/braze-flutter-sdk](https://github.com/braze-inc/braze-flutter-sdk)
+1. ❗️ Opened issue [#3](https://github.com/KalleHallden/exer_log/issues/3) in [KalleHallden/exer_log](https://github.com/KalleHallden/exer_log)
+2. 🗣 Commented on [#556](https://github.com/getsentry/sentry-dart/issues/556) in [getsentry/sentry-dart](https://github.com/getsentry/sentry-dart)
+3. ❗️ Closed issue [#189](https://github.com/AppsFlyerSDK/appsflyer-flutter-plugin/issues/189) in [AppsFlyerSDK/appsflyer-flutter-plugin](https://github.com/AppsFlyerSDK/appsflyer-flutter-plugin)
+4. 🗣 Commented on [#189](https://github.com/AppsFlyerSDK/appsflyer-flutter-plugin/issues/189) in [AppsFlyerSDK/appsflyer-flutter-plugin](https://github.com/AppsFlyerSDK/appsflyer-flutter-plugin)
+5. 🗣 Commented on [#121](https://github.com/akinsho/flutter-tools.nvim/issues/121) in [akinsho/flutter-tools.nvim](https://github.com/akinsho/flutter-tools.nvim)
 <!--END_SECTION:activity-->
 
 </details>
