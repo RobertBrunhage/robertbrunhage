@@ -36,10 +36,10 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#25](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/25) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-2. 🗣 Commented on [#24](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/24) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-3. ❗️ Opened issue [#3](https://github.com/KalleHallden/exer_log/issues/3) in [KalleHallden/exer_log](https://github.com/KalleHallden/exer_log)
-4. 🗣 Commented on [#556](https://github.com/getsentry/sentry-dart/issues/556) in [getsentry/sentry-dart](https://github.com/getsentry/sentry-dart)
-5. ❗️ Closed issue [#189](https://github.com/AppsFlyerSDK/appsflyer-flutter-plugin/issues/189) in [AppsFlyerSDK/appsflyer-flutter-plugin](https://github.com/AppsFlyerSDK/appsflyer-flutter-plugin)
+2. 🗣 Commented on [#25](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/25) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+3. 🗣 Commented on [#24](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/24) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+4. ❗️ Opened issue [#3](https://github.com/KalleHallden/exer_log/issues/3) in [KalleHallden/exer_log](https://github.com/KalleHallden/exer_log)
+5. 🗣 Commented on [#556](https://github.com/getsentry/sentry-dart/issues/556) in [getsentry/sentry-dart](https://github.com/getsentry/sentry-dart)
 <!--END_SECTION:activity-->
 
 </details>
