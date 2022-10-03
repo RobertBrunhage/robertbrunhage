@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/25) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-2. 🗣 Commented on [#5](https://github.com/gskinnerTeam/flutter-wonderous-app/issues/5) in [gskinnerTeam/flutter-wonderous-app](https://github.com/gskinnerTeam/flutter-wonderous-app)
-3. 🗣 Commented on [#25](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/25) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-4. ❗️ Opened issue [#5](https://github.com/gskinnerTeam/flutter-wonderous-app/issues/5) in [gskinnerTeam/flutter-wonderous-app](https://github.com/gskinnerTeam/flutter-wonderous-app)
-5. 🗣 Commented on [#25](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/25) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+1. 🗣 Commented on [#77](https://github.com/ThePrimeagen/git-worktree.nvim/issues/77) in [ThePrimeagen/git-worktree.nvim](https://github.com/ThePrimeagen/git-worktree.nvim)
+2. 🗣 Commented on [#25](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/25) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+3. 🗣 Commented on [#5](https://github.com/gskinnerTeam/flutter-wonderous-app/issues/5) in [gskinnerTeam/flutter-wonderous-app](https://github.com/gskinnerTeam/flutter-wonderous-app)
+4. 🗣 Commented on [#25](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/25) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+5. ❗️ Opened issue [#5](https://github.com/gskinnerTeam/flutter-wonderous-app/issues/5) in [gskinnerTeam/flutter-wonderous-app](https://github.com/gskinnerTeam/flutter-wonderous-app)
 <!--END_SECTION:activity-->
 
 </details>
