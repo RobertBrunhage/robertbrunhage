@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#116](https://github.com/RobertBrunhage/website/pull/116) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-2. 💪 Opened PR [#116](https://github.com/RobertBrunhage/website/pull/116) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-3. 🎉 Merged PR [#115](https://github.com/RobertBrunhage/website/pull/115) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-4. 🗣 Commented on [#115](https://github.com/RobertBrunhage/website/issues/115) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-5. ❗️ Opened issue [#185](https://github.com/VeryGoodOpenSource/very_good_coverage/issues/185) in [VeryGoodOpenSource/very_good_coverage](https://github.com/VeryGoodOpenSource/very_good_coverage)
+1. ❗️ Opened issue [#117](https://github.com/RobertBrunhage/website/issues/117) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+2. 🎉 Merged PR [#116](https://github.com/RobertBrunhage/website/pull/116) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+3. 💪 Opened PR [#116](https://github.com/RobertBrunhage/website/pull/116) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+4. 🎉 Merged PR [#115](https://github.com/RobertBrunhage/website/pull/115) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+5. 🗣 Commented on [#115](https://github.com/RobertBrunhage/website/issues/115) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
 <!--END_SECTION:activity-->
 
 </details>
