@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#29](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/29) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-2. 🎉 Merged PR [#30](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/30) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-3. 🗣 Commented on [#30](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/30) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-4. 🗣 Commented on [#26](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/26) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-5. 🗣 Commented on [#29](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/29) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+1. ❗️ Closed issue [#31](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/31) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+2. 🗣 Commented on [#31](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/31) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+3. ❗️ Closed issue [#29](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/29) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+4. 🎉 Merged PR [#30](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/30) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+5. 🗣 Commented on [#30](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/30) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
 <!--END_SECTION:activity-->
 
 </details>
