@@ -36,10 +36,10 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#27](https://github.com/codecov/Codecov-user-feedback/issues/27) in [codecov/Codecov-user-feedback](https://github.com/codecov/Codecov-user-feedback)
-2. ❗️ Closed issue [#31](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/31) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-3. 🗣 Commented on [#31](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/31) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-4. ❗️ Closed issue [#29](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/29) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-5. 🎉 Merged PR [#30](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/30) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+2. 🗣 Commented on [#27](https://github.com/codecov/Codecov-user-feedback/issues/27) in [codecov/Codecov-user-feedback](https://github.com/codecov/Codecov-user-feedback)
+3. ❗️ Closed issue [#31](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/31) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+4. 🗣 Commented on [#31](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/31) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+5. ❗️ Closed issue [#29](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/29) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
 <!--END_SECTION:activity-->
 
 </details>
