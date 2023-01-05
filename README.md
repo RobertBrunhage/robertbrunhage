@@ -36,9 +36,9 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#380](https://github.com/gql-dart/gql/issues/380) in [gql-dart/gql](https://github.com/gql-dart/gql)
-2. ❗️ Opened issue [#380](https://github.com/gql-dart/gql/issues/380) in [gql-dart/gql](https://github.com/gql-dart/gql)
-3. 🗣 Commented on [#1612](https://github.com/nvim-treesitter/nvim-treesitter/issues/1612) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-4. 🗣 Commented on [#27](https://github.com/codecov/Codecov-user-feedback/issues/27) in [codecov/Codecov-user-feedback](https://github.com/codecov/Codecov-user-feedback)
+2. 🗣 Commented on [#380](https://github.com/gql-dart/gql/issues/380) in [gql-dart/gql](https://github.com/gql-dart/gql)
+3. ❗️ Opened issue [#380](https://github.com/gql-dart/gql/issues/380) in [gql-dart/gql](https://github.com/gql-dart/gql)
+4. 🗣 Commented on [#1612](https://github.com/nvim-treesitter/nvim-treesitter/issues/1612) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 5. 🗣 Commented on [#27](https://github.com/codecov/Codecov-user-feedback/issues/27) in [codecov/Codecov-user-feedback](https://github.com/codecov/Codecov-user-feedback)
 <!--END_SECTION:activity-->
 
