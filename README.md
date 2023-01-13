@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#380](https://github.com/gql-dart/gql/issues/380) in [gql-dart/gql](https://github.com/gql-dart/gql)
-2. ❗️ Closed issue [#380](https://github.com/gql-dart/gql/issues/380) in [gql-dart/gql](https://github.com/gql-dart/gql)
-3. 🗣 Commented on [#380](https://github.com/gql-dart/gql/issues/380) in [gql-dart/gql](https://github.com/gql-dart/gql)
+1. ❗️ Opened issue [#140](https://github.com/dart-lang/dart-vim-plugin/issues/140) in [dart-lang/dart-vim-plugin](https://github.com/dart-lang/dart-vim-plugin)
+2. 🗣 Commented on [#380](https://github.com/gql-dart/gql/issues/380) in [gql-dart/gql](https://github.com/gql-dart/gql)
+3. ❗️ Closed issue [#380](https://github.com/gql-dart/gql/issues/380) in [gql-dart/gql](https://github.com/gql-dart/gql)
 4. 🗣 Commented on [#380](https://github.com/gql-dart/gql/issues/380) in [gql-dart/gql](https://github.com/gql-dart/gql)
-5. ❗️ Opened issue [#380](https://github.com/gql-dart/gql/issues/380) in [gql-dart/gql](https://github.com/gql-dart/gql)
+5. 🗣 Commented on [#380](https://github.com/gql-dart/gql/issues/380) in [gql-dart/gql](https://github.com/gql-dart/gql)
 <!--END_SECTION:activity-->
 
 </details>
