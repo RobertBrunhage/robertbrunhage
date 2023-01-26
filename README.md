@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#407](https://github.com/comigor/artemis/issues/407) in [comigor/artemis](https://github.com/comigor/artemis)
-2. ❗️ Opened issue [#140](https://github.com/dart-lang/dart-vim-plugin/issues/140) in [dart-lang/dart-vim-plugin](https://github.com/dart-lang/dart-vim-plugin)
-3. 🗣 Commented on [#380](https://github.com/gql-dart/gql/issues/380) in [gql-dart/gql](https://github.com/gql-dart/gql)
-4. ❗️ Closed issue [#380](https://github.com/gql-dart/gql/issues/380) in [gql-dart/gql](https://github.com/gql-dart/gql)
-5. 🗣 Commented on [#380](https://github.com/gql-dart/gql/issues/380) in [gql-dart/gql](https://github.com/gql-dart/gql)
+1. ❗️ Reopened issue [#407](https://github.com/comigor/artemis/issues/407) in [comigor/artemis](https://github.com/comigor/artemis)
+2. 🗣 Commented on [#407](https://github.com/comigor/artemis/issues/407) in [comigor/artemis](https://github.com/comigor/artemis)
+3. ❗️ Closed issue [#407](https://github.com/comigor/artemis/issues/407) in [comigor/artemis](https://github.com/comigor/artemis)
+4. 🗣 Commented on [#407](https://github.com/comigor/artemis/issues/407) in [comigor/artemis](https://github.com/comigor/artemis)
+5. ❗️ Opened issue [#407](https://github.com/comigor/artemis/issues/407) in [comigor/artemis](https://github.com/comigor/artemis)
 <!--END_SECTION:activity-->
 
 </details>
