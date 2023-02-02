@@ -37,9 +37,9 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#119234](https://github.com/flutter/flutter/issues/119234) in [flutter/flutter](https://github.com/flutter/flutter)
 2. 🗣 Commented on [#119234](https://github.com/flutter/flutter/issues/119234) in [flutter/flutter](https://github.com/flutter/flutter)
-3. ❗️ Closed issue [#119317](https://github.com/flutter/flutter/issues/119317) in [flutter/flutter](https://github.com/flutter/flutter)
-4. 🗣 Commented on [#119317](https://github.com/flutter/flutter/issues/119317) in [flutter/flutter](https://github.com/flutter/flutter)
-5. ❗️ Opened issue [#119317](https://github.com/flutter/flutter/issues/119317) in [flutter/flutter](https://github.com/flutter/flutter)
+3. 🗣 Commented on [#119234](https://github.com/flutter/flutter/issues/119234) in [flutter/flutter](https://github.com/flutter/flutter)
+4. ❗️ Closed issue [#119317](https://github.com/flutter/flutter/issues/119317) in [flutter/flutter](https://github.com/flutter/flutter)
+5. 🗣 Commented on [#119317](https://github.com/flutter/flutter/issues/119317) in [flutter/flutter](https://github.com/flutter/flutter)
 <!--END_SECTION:activity-->
 
 </details>
