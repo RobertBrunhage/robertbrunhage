@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#119](https://github.com/RobertBrunhage/website/pull/119) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-2. 💪 Opened PR [#119](https://github.com/RobertBrunhage/website/pull/119) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-3. 🎉 Merged PR [#118](https://github.com/RobertBrunhage/website/pull/118) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-4. 🗣 Commented on [#99](https://github.com/spencerccf/app_settings/issues/99) in [spencerccf/app_settings](https://github.com/spencerccf/app_settings)
-5. 🗣 Commented on [#120220](https://github.com/flutter/flutter/issues/120220) in [flutter/flutter](https://github.com/flutter/flutter)
+1. 🎉 Merged PR [#120](https://github.com/RobertBrunhage/website/pull/120) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+2. 💪 Opened PR [#120](https://github.com/RobertBrunhage/website/pull/120) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+3. 🎉 Merged PR [#119](https://github.com/RobertBrunhage/website/pull/119) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+4. 💪 Opened PR [#119](https://github.com/RobertBrunhage/website/pull/119) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+5. 🎉 Merged PR [#118](https://github.com/RobertBrunhage/website/pull/118) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
 <!--END_SECTION:activity-->
 
 </details>
