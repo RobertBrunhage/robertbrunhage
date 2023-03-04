@@ -6,7 +6,7 @@
 You can find code from new tutorials over at [My other GitHub Account](https://github.com/Robert-Brunhage-Organization)
 
 ## What am I up to, though??? 😊
-- 🔭 I’m currently working on a Flutter Course [Website](https://robertbrunhage.com)
+- 🔭 I’m currently working on [Website](https://robertbrunhage.com)
 - 💬 Ask me about Flutter or tech in general
 - ⚡ Fun fact: I play the Piano and love online games (PvP)
 
