@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#34](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/34) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-2. 🎉 Merged PR [#33](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/33) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-3. 🗣 Commented on [#33](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/33) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-4. 🎉 Merged PR [#120](https://github.com/RobertBrunhage/website/pull/120) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-5. 💪 Opened PR [#120](https://github.com/RobertBrunhage/website/pull/120) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+1. ❗️ Opened issue [#409](https://github.com/comigor/artemis/issues/409) in [comigor/artemis](https://github.com/comigor/artemis)
+2. 🎉 Merged PR [#34](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/34) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+3. 🎉 Merged PR [#33](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/33) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+4. 🗣 Commented on [#33](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/33) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+5. 🎉 Merged PR [#120](https://github.com/RobertBrunhage/website/pull/120) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
 <!--END_SECTION:activity-->
 
 </details>
