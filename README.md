@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#492](https://github.com/invertase/melos/issues/492) in [invertase/melos](https://github.com/invertase/melos)
-2. 🗣 Commented on [#492](https://github.com/invertase/melos/issues/492) in [invertase/melos](https://github.com/invertase/melos)
+1. 💪 Opened PR [#232](https://github.com/nvim-treesitter/nvim-treesitter-context/pull/232) in [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)
+2. ❗️ Closed issue [#492](https://github.com/invertase/melos/issues/492) in [invertase/melos](https://github.com/invertase/melos)
 3. 🗣 Commented on [#492](https://github.com/invertase/melos/issues/492) in [invertase/melos](https://github.com/invertase/melos)
-4. ❗️ Opened issue [#492](https://github.com/invertase/melos/issues/492) in [invertase/melos](https://github.com/invertase/melos)
-5. ❗️ Opened issue [#409](https://github.com/comigor/artemis/issues/409) in [comigor/artemis](https://github.com/comigor/artemis)
+4. 🗣 Commented on [#492](https://github.com/invertase/melos/issues/492) in [invertase/melos](https://github.com/invertase/melos)
+5. ❗️ Opened issue [#492](https://github.com/invertase/melos/issues/492) in [invertase/melos](https://github.com/invertase/melos)
 <!--END_SECTION:activity-->
 
 </details>
