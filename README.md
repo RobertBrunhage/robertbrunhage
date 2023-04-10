@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4623](https://github.com/nvim-treesitter/nvim-treesitter/issues/4623) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-2. 💪 Opened PR [#4623](https://github.com/nvim-treesitter/nvim-treesitter/pull/4623) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-3. 💪 Opened PR [#232](https://github.com/nvim-treesitter/nvim-treesitter-context/pull/232) in [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)
-4. ❗️ Closed issue [#492](https://github.com/invertase/melos/issues/492) in [invertase/melos](https://github.com/invertase/melos)
-5. 🗣 Commented on [#492](https://github.com/invertase/melos/issues/492) in [invertase/melos](https://github.com/invertase/melos)
+1. ❗️ Opened issue [#4632](https://github.com/nvim-treesitter/nvim-treesitter/issues/4632) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+2. 🗣 Commented on [#4623](https://github.com/nvim-treesitter/nvim-treesitter/issues/4623) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+3. 💪 Opened PR [#4623](https://github.com/nvim-treesitter/nvim-treesitter/pull/4623) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+4. 💪 Opened PR [#232](https://github.com/nvim-treesitter/nvim-treesitter-context/pull/232) in [nvim-treesitter/nvim-treesitter-context](https://github.com/nvim-treesitter/nvim-treesitter-context)
+5. ❗️ Closed issue [#492](https://github.com/invertase/melos/issues/492) in [invertase/melos](https://github.com/invertase/melos)
 <!--END_SECTION:activity-->
 
 </details>
