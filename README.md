@@ -36,9 +36,9 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#4644](https://github.com/nvim-treesitter/nvim-treesitter/issues/4644) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-2. ❌ Closed PR [#4643](https://github.com/nvim-treesitter/nvim-treesitter/pull/4643) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-3. 🗣 Commented on [#4643](https://github.com/nvim-treesitter/nvim-treesitter/issues/4643) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-4. 🗣 Commented on [#4643](https://github.com/nvim-treesitter/nvim-treesitter/issues/4643) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+2. 🗣 Commented on [#4644](https://github.com/nvim-treesitter/nvim-treesitter/issues/4644) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+3. 🗣 Commented on [#4644](https://github.com/nvim-treesitter/nvim-treesitter/issues/4644) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+4. ❌ Closed PR [#4643](https://github.com/nvim-treesitter/nvim-treesitter/pull/4643) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 5. 🗣 Commented on [#4643](https://github.com/nvim-treesitter/nvim-treesitter/issues/4643) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 <!--END_SECTION:activity-->
 
