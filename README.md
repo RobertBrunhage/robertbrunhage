@@ -35,9 +35,9 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4647](https://github.com/nvim-treesitter/nvim-treesitter/issues/4647) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+1. 🗣 Commented on [#4644](https://github.com/nvim-treesitter/nvim-treesitter/issues/4644) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 2. 🗣 Commented on [#4647](https://github.com/nvim-treesitter/nvim-treesitter/issues/4647) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-3. 🗣 Commented on [#4644](https://github.com/nvim-treesitter/nvim-treesitter/issues/4644) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+3. 🗣 Commented on [#4647](https://github.com/nvim-treesitter/nvim-treesitter/issues/4647) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 4. 🗣 Commented on [#4644](https://github.com/nvim-treesitter/nvim-treesitter/issues/4644) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 5. 🗣 Commented on [#4644](https://github.com/nvim-treesitter/nvim-treesitter/issues/4644) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
 <!--END_SECTION:activity-->
