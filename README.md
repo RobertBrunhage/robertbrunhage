@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1527](https://github.com/hrsh7th/nvim-cmp/issues/1527) in [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
-2. ❗️ Closed issue [#214](https://github.com/VonHeikemen/lsp-zero.nvim/issues/214) in [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim)
-3. 🗣 Commented on [#214](https://github.com/VonHeikemen/lsp-zero.nvim/issues/214) in [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim)
+1. 🗣 Commented on [#214](https://github.com/VonHeikemen/lsp-zero.nvim/issues/214) in [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim)
+2. ❗️ Opened issue [#1527](https://github.com/hrsh7th/nvim-cmp/issues/1527) in [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
+3. ❗️ Closed issue [#214](https://github.com/VonHeikemen/lsp-zero.nvim/issues/214) in [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim)
 4. 🗣 Commented on [#214](https://github.com/VonHeikemen/lsp-zero.nvim/issues/214) in [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim)
-5. ❗️ Opened issue [#214](https://github.com/VonHeikemen/lsp-zero.nvim/issues/214) in [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim)
+5. 🗣 Commented on [#214](https://github.com/VonHeikemen/lsp-zero.nvim/issues/214) in [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim)
 <!--END_SECTION:activity-->
 
 </details>
