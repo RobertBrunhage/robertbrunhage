@@ -35,10 +35,10 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1507](https://github.com/Milad-Akarie/auto_route_library/issues/1507) in [Milad-Akarie/auto_route_library](https://github.com/Milad-Akarie/auto_route_library)
-2. 🗣 Commented on [#4634](https://github.com/nvim-treesitter/nvim-treesitter/issues/4634) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-3. 🎉 Merged PR [#35](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/35) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-4. 🗣 Commented on [#35](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/35) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+1. ❗️ Opened issue [#214](https://github.com/VonHeikemen/lsp-zero.nvim/issues/214) in [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim)
+2. ❗️ Opened issue [#1507](https://github.com/Milad-Akarie/auto_route_library/issues/1507) in [Milad-Akarie/auto_route_library](https://github.com/Milad-Akarie/auto_route_library)
+3. 🗣 Commented on [#4634](https://github.com/nvim-treesitter/nvim-treesitter/issues/4634) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
+4. 🎉 Merged PR [#35](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/35) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
 5. 🗣 Commented on [#35](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/35) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
 <!--END_SECTION:activity-->
 
