@@ -22,11 +22,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Are You Typing Less Than 80 WPM?](https://www.youtube.com/watch?v=sFdmgI2VRB8)
 - [NeoVim With Flutter is AWESOME](https://www.youtube.com/watch?v=E29ij9baGPw)
 - [Why I Don&#39;t Use Multiple Monitors For Programming](https://www.youtube.com/watch?v=2Cp9tV01Sd4)
 - [The Price of Using Local Packages in Flutter](https://www.youtube.com/watch?v=olG9yVuTlWE)
 - [Flutter, Next and PlanetScale Is Fun](https://www.youtube.com/watch?v=wyMe3Gl9Lio)
-- [Flutter Appwrite a Firebase Competitor](https://www.youtube.com/watch?v=2d6evFfOX5Q)
 <!-- YOUTUBE:END -->
 
 ---
