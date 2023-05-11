@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#132](https://github.com/fluttercandies/extended_nested_scroll_view/issues/132) in [fluttercandies/extended_nested_scroll_view](https://github.com/fluttercandies/extended_nested_scroll_view)
-2. 🗣 Commented on [#126157](https://github.com/flutter/flutter/issues/126157) in [flutter/flutter](https://github.com/flutter/flutter)
-3. ❗️ Opened issue [#126157](https://github.com/flutter/flutter/issues/126157) in [flutter/flutter](https://github.com/flutter/flutter)
-4. 🗣 Commented on [#4641](https://github.com/nvim-treesitter/nvim-treesitter/issues/4641) in [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter)
-5. 🗣 Commented on [#1527](https://github.com/hrsh7th/nvim-cmp/issues/1527) in [hrsh7th/nvim-cmp](https://github.com/hrsh7th/nvim-cmp)
+1. 🗣 Commented on [#942](https://github.com/Stacked-Org/stacked/issues/942) in [Stacked-Org/stacked](https://github.com/Stacked-Org/stacked)
+2. ❌ Closed PR [#134](https://github.com/fluttercandies/extended_nested_scroll_view/pull/134) in [fluttercandies/extended_nested_scroll_view](https://github.com/fluttercandies/extended_nested_scroll_view)
+3. 💪 Opened PR [#134](https://github.com/fluttercandies/extended_nested_scroll_view/pull/134) in [fluttercandies/extended_nested_scroll_view](https://github.com/fluttercandies/extended_nested_scroll_view)
+4. ❗️ Opened issue [#132](https://github.com/fluttercandies/extended_nested_scroll_view/issues/132) in [fluttercandies/extended_nested_scroll_view](https://github.com/fluttercandies/extended_nested_scroll_view)
+5. 🗣 Commented on [#126157](https://github.com/flutter/flutter/issues/126157) in [flutter/flutter](https://github.com/flutter/flutter)
 <!--END_SECTION:activity-->
 
 </details>
