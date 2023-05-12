@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#942](https://github.com/Stacked-Org/stacked/issues/942) in [Stacked-Org/stacked](https://github.com/Stacked-Org/stacked)
-2. ❌ Closed PR [#134](https://github.com/fluttercandies/extended_nested_scroll_view/pull/134) in [fluttercandies/extended_nested_scroll_view](https://github.com/fluttercandies/extended_nested_scroll_view)
-3. 💪 Opened PR [#134](https://github.com/fluttercandies/extended_nested_scroll_view/pull/134) in [fluttercandies/extended_nested_scroll_view](https://github.com/fluttercandies/extended_nested_scroll_view)
-4. ❗️ Opened issue [#132](https://github.com/fluttercandies/extended_nested_scroll_view/issues/132) in [fluttercandies/extended_nested_scroll_view](https://github.com/fluttercandies/extended_nested_scroll_view)
-5. 🗣 Commented on [#126157](https://github.com/flutter/flutter/issues/126157) in [flutter/flutter](https://github.com/flutter/flutter)
+1. ❗️ Opened issue [#135](https://github.com/fluttercandies/extended_nested_scroll_view/issues/135) in [fluttercandies/extended_nested_scroll_view](https://github.com/fluttercandies/extended_nested_scroll_view)
+2. 🗣 Commented on [#942](https://github.com/Stacked-Org/stacked/issues/942) in [Stacked-Org/stacked](https://github.com/Stacked-Org/stacked)
+3. ❌ Closed PR [#134](https://github.com/fluttercandies/extended_nested_scroll_view/pull/134) in [fluttercandies/extended_nested_scroll_view](https://github.com/fluttercandies/extended_nested_scroll_view)
+4. 💪 Opened PR [#134](https://github.com/fluttercandies/extended_nested_scroll_view/pull/134) in [fluttercandies/extended_nested_scroll_view](https://github.com/fluttercandies/extended_nested_scroll_view)
+5. ❗️ Opened issue [#132](https://github.com/fluttercandies/extended_nested_scroll_view/issues/132) in [fluttercandies/extended_nested_scroll_view](https://github.com/fluttercandies/extended_nested_scroll_view)
 <!--END_SECTION:activity-->
 
 </details>
