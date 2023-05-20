@@ -22,11 +22,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Flutter iOS Wireless Debugging Is Awesome](https://www.youtube.com/watch?v=atbStqnPXC8)
 - [Dart 3 Class Modifiers Is kinda Confusing](https://www.youtube.com/watch?v=Od49lG0ez0o)
 - [Why I Will Never Use a Normal Keyboard Again](https://www.youtube.com/watch?v=t4KCvFumRMs)
 - [Dart 3 Records Are Awesome](https://www.youtube.com/watch?v=aWOyc3HG9XM)
 - [Are You Typing Slower Than 80 WPM?](https://www.youtube.com/watch?v=sFdmgI2VRB8)
-- [NeoVim With Flutter is AWESOME](https://www.youtube.com/watch?v=E29ij9baGPw)
 <!-- YOUTUBE:END -->
 
 ---
