@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#99](https://github.com/spencerccf/app_settings/issues/99) in [spencerccf/app_settings](https://github.com/spencerccf/app_settings)
-2. ❗ Opened issue [#48](https://github.com/UserNobody14/tree-sitter-dart/issues/48) in [UserNobody14/tree-sitter-dart](https://github.com/UserNobody14/tree-sitter-dart)
-3. ❗ Opened issue [#108](https://github.com/adjust/flutter_sdk/issues/108) in [adjust/flutter_sdk](https://github.com/adjust/flutter_sdk)
-4. 🗣 Commented on [#672](https://github.com/widgetbook/widgetbook/issues/672) in [widgetbook/widgetbook](https://github.com/widgetbook/widgetbook)
-5. 🗣 Commented on [#126878](https://github.com/flutter/flutter/issues/126878) in [flutter/flutter](https://github.com/flutter/flutter)
+1. 🔒 Closed issue [#12](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/12) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+2. 🗣 Commented on [#99](https://github.com/spencerccf/app_settings/issues/99) in [spencerccf/app_settings](https://github.com/spencerccf/app_settings)
+3. 🔒 Closed issue [#20](https://github.com/JackAppDev/flutter_iap/issues/20) in [JackAppDev/flutter_iap](https://github.com/JackAppDev/flutter_iap)
+4. 🗣 Commented on [#20](https://github.com/JackAppDev/flutter_iap/issues/20) in [JackAppDev/flutter_iap](https://github.com/JackAppDev/flutter_iap)
+5. 🗣 Commented on [#99](https://github.com/spencerccf/app_settings/issues/99) in [spencerccf/app_settings](https://github.com/spencerccf/app_settings)
 <!--END_SECTION:activity-->
 
 </details>
