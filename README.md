@@ -36,10 +36,10 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   
 <!--START_SECTION:activity-->
 1. 🔒 Closed issue [#12](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/12) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-2. 🗣 Commented on [#99](https://github.com/spencerccf/app_settings/issues/99) in [spencerccf/app_settings](https://github.com/spencerccf/app_settings)
+2. 🗣 Commented on [#99](https://github.com/spencerccf/app_settings/issues/99#issuecomment-1604599574) in [spencerccf/app_settings](https://github.com/spencerccf/app_settings)
 3. 🔒 Closed issue [#20](https://github.com/JackAppDev/flutter_iap/issues/20) in [JackAppDev/flutter_iap](https://github.com/JackAppDev/flutter_iap)
-4. 🗣 Commented on [#20](https://github.com/JackAppDev/flutter_iap/issues/20) in [JackAppDev/flutter_iap](https://github.com/JackAppDev/flutter_iap)
-5. 🗣 Commented on [#99](https://github.com/spencerccf/app_settings/issues/99) in [spencerccf/app_settings](https://github.com/spencerccf/app_settings)
+4. 🗣 Commented on [#20](https://github.com/JackAppDev/flutter_iap/issues/20#issuecomment-1604598384) in [JackAppDev/flutter_iap](https://github.com/JackAppDev/flutter_iap)
+5. 🗣 Commented on [#99](https://github.com/spencerccf/app_settings/issues/99#issuecomment-1602355535) in [spencerccf/app_settings](https://github.com/spencerccf/app_settings)
 <!--END_SECTION:activity-->
 
 </details>
