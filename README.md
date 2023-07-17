@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#52947](https://github.com/dart-lang/sdk/issues/52947) in [dart-lang/sdk](https://github.com/dart-lang/sdk)
-2. 🔒 Closed issue [#12](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/12) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-3. 🗣 Commented on [#99](https://github.com/spencerccf/app_settings/issues/99#issuecomment-1604599574) in [spencerccf/app_settings](https://github.com/spencerccf/app_settings)
-4. 🔒 Closed issue [#20](https://github.com/JackAppDev/flutter_iap/issues/20) in [JackAppDev/flutter_iap](https://github.com/JackAppDev/flutter_iap)
-5. 🗣 Commented on [#20](https://github.com/JackAppDev/flutter_iap/issues/20#issuecomment-1604598384) in [JackAppDev/flutter_iap](https://github.com/JackAppDev/flutter_iap)
+1. 🗣 Commented on [#52947](https://github.com/dart-lang/sdk/issues/52947#issuecomment-1637448887) in [dart-lang/sdk](https://github.com/dart-lang/sdk)
+2. ❗ Opened issue [#52947](https://github.com/dart-lang/sdk/issues/52947) in [dart-lang/sdk](https://github.com/dart-lang/sdk)
+3. 🔒 Closed issue [#12](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/12) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+4. 🗣 Commented on [#99](https://github.com/spencerccf/app_settings/issues/99#issuecomment-1604599574) in [spencerccf/app_settings](https://github.com/spencerccf/app_settings)
+5. 🔒 Closed issue [#20](https://github.com/JackAppDev/flutter_iap/issues/20) in [JackAppDev/flutter_iap](https://github.com/JackAppDev/flutter_iap)
 <!--END_SECTION:activity-->
 
 </details>
