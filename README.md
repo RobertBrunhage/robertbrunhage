@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#260](https://github.com/mhartington/formatter.nvim/issues/260) in [mhartington/formatter.nvim](https://github.com/mhartington/formatter.nvim)
-2. 🗣 Commented on [#52947](https://github.com/dart-lang/sdk/issues/52947#issuecomment-1638188573) in [dart-lang/sdk](https://github.com/dart-lang/sdk)
-3. 🗣 Commented on [#52947](https://github.com/dart-lang/sdk/issues/52947#issuecomment-1637448887) in [dart-lang/sdk](https://github.com/dart-lang/sdk)
-4. ❗ Opened issue [#52947](https://github.com/dart-lang/sdk/issues/52947) in [dart-lang/sdk](https://github.com/dart-lang/sdk)
-5. 🔒 Closed issue [#12](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/12) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+1. 🗣 Commented on [#260](https://github.com/mhartington/formatter.nvim/issues/260#issuecomment-1642035424) in [mhartington/formatter.nvim](https://github.com/mhartington/formatter.nvim)
+2. ❗ Opened issue [#260](https://github.com/mhartington/formatter.nvim/issues/260) in [mhartington/formatter.nvim](https://github.com/mhartington/formatter.nvim)
+3. 🗣 Commented on [#52947](https://github.com/dart-lang/sdk/issues/52947#issuecomment-1638188573) in [dart-lang/sdk](https://github.com/dart-lang/sdk)
+4. 🗣 Commented on [#52947](https://github.com/dart-lang/sdk/issues/52947#issuecomment-1637448887) in [dart-lang/sdk](https://github.com/dart-lang/sdk)
+5. ❗ Opened issue [#52947](https://github.com/dart-lang/sdk/issues/52947) in [dart-lang/sdk](https://github.com/dart-lang/sdk)
 <!--END_SECTION:activity-->
 
 </details>
