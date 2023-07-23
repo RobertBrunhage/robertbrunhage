@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#13](https://github.com/RobertBrunhage/bubble-tasker/issues/13) in [RobertBrunhage/bubble-tasker](https://github.com/RobertBrunhage/bubble-tasker)
-2. 🔒 Closed issue [#23](https://github.com/RobertBrunhage/bubble-tasker/issues/23) in [RobertBrunhage/bubble-tasker](https://github.com/RobertBrunhage/bubble-tasker)
-3. 🗣 Commented on [#108](https://github.com/adjust/flutter_sdk/issues/108#issuecomment-1645066050) in [adjust/flutter_sdk](https://github.com/adjust/flutter_sdk)
-4. 🔒 Closed issue [#108](https://github.com/adjust/flutter_sdk/issues/108) in [adjust/flutter_sdk](https://github.com/adjust/flutter_sdk)
-5. 🗣 Commented on [#260](https://github.com/mhartington/formatter.nvim/issues/260#issuecomment-1642035424) in [mhartington/formatter.nvim](https://github.com/mhartington/formatter.nvim)
+1. 🗣 Commented on [#260](https://github.com/mhartington/formatter.nvim/issues/260#issuecomment-1646751629) in [mhartington/formatter.nvim](https://github.com/mhartington/formatter.nvim)
+2. 🔒 Closed issue [#13](https://github.com/RobertBrunhage/bubble-tasker/issues/13) in [RobertBrunhage/bubble-tasker](https://github.com/RobertBrunhage/bubble-tasker)
+3. 🔒 Closed issue [#23](https://github.com/RobertBrunhage/bubble-tasker/issues/23) in [RobertBrunhage/bubble-tasker](https://github.com/RobertBrunhage/bubble-tasker)
+4. 🗣 Commented on [#108](https://github.com/adjust/flutter_sdk/issues/108#issuecomment-1645066050) in [adjust/flutter_sdk](https://github.com/adjust/flutter_sdk)
+5. 🔒 Closed issue [#108](https://github.com/adjust/flutter_sdk/issues/108) in [adjust/flutter_sdk](https://github.com/adjust/flutter_sdk)
 <!--END_SECTION:activity-->
 
 </details>
