@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#11](https://github.com/RobertBrunhage/website/issues/11) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-2. 🔒 Closed issue [#7](https://github.com/RobertBrunhage/website/issues/7) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-3. 🔒 Closed issue [#9](https://github.com/RobertBrunhage/website/issues/9) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-4. 🔒 Closed issue [#122](https://github.com/RobertBrunhage/website/issues/122) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-5. 🗣 Commented on [#122](https://github.com/RobertBrunhage/website/issues/122#issuecomment-1685027792) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+1. 🎉 Merged PR [#130](https://github.com/RobertBrunhage/website/pull/130) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+2. 🔒 Closed issue [#11](https://github.com/RobertBrunhage/website/issues/11) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+3. 🔒 Closed issue [#7](https://github.com/RobertBrunhage/website/issues/7) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+4. 🔒 Closed issue [#9](https://github.com/RobertBrunhage/website/issues/9) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+5. 🔒 Closed issue [#122](https://github.com/RobertBrunhage/website/issues/122) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
 <!--END_SECTION:activity-->
 
 </details>
