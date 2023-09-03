@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#33](https://github.com/RobertBrunhage/website/issues/33) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-2. 🎉 Merged PR [#131](https://github.com/RobertBrunhage/website/pull/131) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-3. 💪 Opened PR [#131](https://github.com/RobertBrunhage/website/pull/131) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-4. 🎉 Merged PR [#130](https://github.com/RobertBrunhage/website/pull/130) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-5. 🔒 Closed issue [#11](https://github.com/RobertBrunhage/website/issues/11) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+1. 💪 Opened PR [#132](https://github.com/RobertBrunhage/website/pull/132) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+2. 🔒 Closed issue [#33](https://github.com/RobertBrunhage/website/issues/33) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+3. 🎉 Merged PR [#131](https://github.com/RobertBrunhage/website/pull/131) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+4. 💪 Opened PR [#131](https://github.com/RobertBrunhage/website/pull/131) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+5. 🎉 Merged PR [#130](https://github.com/RobertBrunhage/website/pull/130) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
 <!--END_SECTION:activity-->
 
 </details>
