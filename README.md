@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#24721](https://github.com/neovim/neovim/issues/24721#issuecomment-1748697749) in [neovim/neovim](https://github.com/neovim/neovim)
-2. 🗣 Commented on [#135442](https://github.com/flutter/flutter/issues/135442#issuecomment-1736904902) in [flutter/flutter](https://github.com/flutter/flutter)
-3. 🗣 Commented on [#6578](https://github.com/alacritty/alacritty/issues/6578#issuecomment-1712046993) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
-4. 💪 Opened PR [#132](https://github.com/RobertBrunhage/website/pull/132) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
-5. 🔒 Closed issue [#33](https://github.com/RobertBrunhage/website/issues/33) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+1. ❗ Opened issue [#425](https://github.com/gql-dart/gql/issues/425) in [gql-dart/gql](https://github.com/gql-dart/gql)
+2. 🗣 Commented on [#24721](https://github.com/neovim/neovim/issues/24721#issuecomment-1748697749) in [neovim/neovim](https://github.com/neovim/neovim)
+3. 🗣 Commented on [#135442](https://github.com/flutter/flutter/issues/135442#issuecomment-1736904902) in [flutter/flutter](https://github.com/flutter/flutter)
+4. 🗣 Commented on [#6578](https://github.com/alacritty/alacritty/issues/6578#issuecomment-1712046993) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
+5. 💪 Opened PR [#132](https://github.com/RobertBrunhage/website/pull/132) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
 <!--END_SECTION:activity-->
 
 </details>
