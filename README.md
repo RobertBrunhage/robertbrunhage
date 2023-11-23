@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#434](https://github.com/neuecc/UniRx/issues/434) in [neuecc/UniRx](https://github.com/neuecc/UniRx)
-2. 🔒 Closed issue [#9](https://github.com/cdharris/flutter_duration_picker/issues/9) in [cdharris/flutter_duration_picker](https://github.com/cdharris/flutter_duration_picker)
-3. 🔒 Closed issue [#1](https://github.com/mtellect/Flutter_Paystack/issues/1) in [mtellect/Flutter_Paystack](https://github.com/mtellect/Flutter_Paystack)
-4. 🗣 Commented on [#343](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/issues/343#issuecomment-1824564720) in [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)
-5. 🔒 Closed issue [#343](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/issues/343) in [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)
+1. 🗣 Commented on [#124](https://github.com/heftapp/graphql_codegen/issues/124#issuecomment-1824793997) in [heftapp/graphql_codegen](https://github.com/heftapp/graphql_codegen)
+2. 🔒 Closed issue [#323](https://github.com/heftapp/graphql_codegen/issues/323) in [heftapp/graphql_codegen](https://github.com/heftapp/graphql_codegen)
+3. 🗣 Commented on [#323](https://github.com/heftapp/graphql_codegen/issues/323#issuecomment-1824792562) in [heftapp/graphql_codegen](https://github.com/heftapp/graphql_codegen)
+4. ❗ Opened issue [#323](https://github.com/heftapp/graphql_codegen/issues/323) in [heftapp/graphql_codegen](https://github.com/heftapp/graphql_codegen)
+5. 🔒 Closed issue [#434](https://github.com/neuecc/UniRx/issues/434) in [neuecc/UniRx](https://github.com/neuecc/UniRx)
 <!--END_SECTION:activity-->
 
 </details>
