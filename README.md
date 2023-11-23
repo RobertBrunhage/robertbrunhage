@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#425](https://github.com/gql-dart/gql/issues/425) in [gql-dart/gql](https://github.com/gql-dart/gql)
-2. 🗣 Commented on [#24721](https://github.com/neovim/neovim/issues/24721#issuecomment-1748697749) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 🗣 Commented on [#135442](https://github.com/flutter/flutter/issues/135442#issuecomment-1736904902) in [flutter/flutter](https://github.com/flutter/flutter)
-4. 🗣 Commented on [#6578](https://github.com/alacritty/alacritty/issues/6578#issuecomment-1712046993) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
-5. 💪 Opened PR [#132](https://github.com/RobertBrunhage/website/pull/132) in [RobertBrunhage/website](https://github.com/RobertBrunhage/website)
+1. 🔒 Closed issue [#434](https://github.com/neuecc/UniRx/issues/434) in [neuecc/UniRx](https://github.com/neuecc/UniRx)
+2. 🔒 Closed issue [#9](https://github.com/cdharris/flutter_duration_picker/issues/9) in [cdharris/flutter_duration_picker](https://github.com/cdharris/flutter_duration_picker)
+3. 🔒 Closed issue [#1](https://github.com/mtellect/Flutter_Paystack/issues/1) in [mtellect/Flutter_Paystack](https://github.com/mtellect/Flutter_Paystack)
+4. 🗣 Commented on [#343](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/issues/343#issuecomment-1824564720) in [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)
+5. 🔒 Closed issue [#343](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor/issues/343) in [LibreHardwareMonitor/LibreHardwareMonitor](https://github.com/LibreHardwareMonitor/LibreHardwareMonitor)
 <!--END_SECTION:activity-->
 
 </details>
