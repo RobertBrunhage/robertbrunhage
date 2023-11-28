@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#81718](https://github.com/flutter/flutter/issues/81718#issuecomment-1826718110) in [flutter/flutter](https://github.com/flutter/flutter)
-2. 🗣 Commented on [#124](https://github.com/heftapp/graphql_codegen/issues/124#issuecomment-1824793997) in [heftapp/graphql_codegen](https://github.com/heftapp/graphql_codegen)
-3. 🔒 Closed issue [#323](https://github.com/heftapp/graphql_codegen/issues/323) in [heftapp/graphql_codegen](https://github.com/heftapp/graphql_codegen)
-4. 🗣 Commented on [#323](https://github.com/heftapp/graphql_codegen/issues/323#issuecomment-1824792562) in [heftapp/graphql_codegen](https://github.com/heftapp/graphql_codegen)
-5. ❗ Opened issue [#323](https://github.com/heftapp/graphql_codegen/issues/323) in [heftapp/graphql_codegen](https://github.com/heftapp/graphql_codegen)
+1. 🗣 Commented on [#333](https://github.com/zino-hofmann/graphql-flutter/issues/333#issuecomment-1829230142) in [zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter)
+2. 🗣 Commented on [#81718](https://github.com/flutter/flutter/issues/81718#issuecomment-1826718110) in [flutter/flutter](https://github.com/flutter/flutter)
+3. 🗣 Commented on [#124](https://github.com/heftapp/graphql_codegen/issues/124#issuecomment-1824793997) in [heftapp/graphql_codegen](https://github.com/heftapp/graphql_codegen)
+4. 🔒 Closed issue [#323](https://github.com/heftapp/graphql_codegen/issues/323) in [heftapp/graphql_codegen](https://github.com/heftapp/graphql_codegen)
+5. 🗣 Commented on [#323](https://github.com/heftapp/graphql_codegen/issues/323#issuecomment-1824792562) in [heftapp/graphql_codegen](https://github.com/heftapp/graphql_codegen)
 <!--END_SECTION:activity-->
 
 </details>
