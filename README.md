@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#213](https://github.com/CariusLars/ar_flutter_plugin/issues/213) in [CariusLars/ar_flutter_plugin](https://github.com/CariusLars/ar_flutter_plugin)
-2. ❗ Opened issue [#36](https://github.com/nvim-telescope/telescope-ui-select.nvim/issues/36) in [nvim-telescope/telescope-ui-select.nvim](https://github.com/nvim-telescope/telescope-ui-select.nvim)
-3. 🗣 Commented on [#333](https://github.com/zino-hofmann/graphql-flutter/issues/333#issuecomment-1829230142) in [zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter)
-4. 🗣 Commented on [#81718](https://github.com/flutter/flutter/issues/81718#issuecomment-1826718110) in [flutter/flutter](https://github.com/flutter/flutter)
-5. 🗣 Commented on [#124](https://github.com/heftapp/graphql_codegen/issues/124#issuecomment-1824793997) in [heftapp/graphql_codegen](https://github.com/heftapp/graphql_codegen)
+1. 🗣 Commented on [#36](https://github.com/nvim-telescope/telescope-ui-select.nvim/issues/36#issuecomment-1859174771) in [nvim-telescope/telescope-ui-select.nvim](https://github.com/nvim-telescope/telescope-ui-select.nvim)
+2. 🔒 Closed issue [#36](https://github.com/nvim-telescope/telescope-ui-select.nvim/issues/36) in [nvim-telescope/telescope-ui-select.nvim](https://github.com/nvim-telescope/telescope-ui-select.nvim)
+3. ❗ Opened issue [#213](https://github.com/CariusLars/ar_flutter_plugin/issues/213) in [CariusLars/ar_flutter_plugin](https://github.com/CariusLars/ar_flutter_plugin)
+4. ❗ Opened issue [#36](https://github.com/nvim-telescope/telescope-ui-select.nvim/issues/36) in [nvim-telescope/telescope-ui-select.nvim](https://github.com/nvim-telescope/telescope-ui-select.nvim)
+5. 🗣 Commented on [#333](https://github.com/zino-hofmann/graphql-flutter/issues/333#issuecomment-1829230142) in [zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter)
 <!--END_SECTION:activity-->
 
 </details>
