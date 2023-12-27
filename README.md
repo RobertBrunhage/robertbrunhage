@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#36](https://github.com/nvim-telescope/telescope-ui-select.nvim/issues/36#issuecomment-1859174771) in [nvim-telescope/telescope-ui-select.nvim](https://github.com/nvim-telescope/telescope-ui-select.nvim)
-2. 🔒 Closed issue [#36](https://github.com/nvim-telescope/telescope-ui-select.nvim/issues/36) in [nvim-telescope/telescope-ui-select.nvim](https://github.com/nvim-telescope/telescope-ui-select.nvim)
-3. ❗ Opened issue [#213](https://github.com/CariusLars/ar_flutter_plugin/issues/213) in [CariusLars/ar_flutter_plugin](https://github.com/CariusLars/ar_flutter_plugin)
-4. ❗ Opened issue [#36](https://github.com/nvim-telescope/telescope-ui-select.nvim/issues/36) in [nvim-telescope/telescope-ui-select.nvim](https://github.com/nvim-telescope/telescope-ui-select.nvim)
-5. 🗣 Commented on [#333](https://github.com/zino-hofmann/graphql-flutter/issues/333#issuecomment-1829230142) in [zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter)
+1. ❗ Opened issue [#2215](https://github.com/shadcn-ui/ui/issues/2215) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+2. 🗣 Commented on [#36](https://github.com/nvim-telescope/telescope-ui-select.nvim/issues/36#issuecomment-1859174771) in [nvim-telescope/telescope-ui-select.nvim](https://github.com/nvim-telescope/telescope-ui-select.nvim)
+3. 🔒 Closed issue [#36](https://github.com/nvim-telescope/telescope-ui-select.nvim/issues/36) in [nvim-telescope/telescope-ui-select.nvim](https://github.com/nvim-telescope/telescope-ui-select.nvim)
+4. ❗ Opened issue [#213](https://github.com/CariusLars/ar_flutter_plugin/issues/213) in [CariusLars/ar_flutter_plugin](https://github.com/CariusLars/ar_flutter_plugin)
+5. ❗ Opened issue [#36](https://github.com/nvim-telescope/telescope-ui-select.nvim/issues/36) in [nvim-telescope/telescope-ui-select.nvim](https://github.com/nvim-telescope/telescope-ui-select.nvim)
 <!--END_SECTION:activity-->
 
 </details>
