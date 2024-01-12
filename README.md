@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2215](https://github.com/shadcn-ui/ui/issues/2215#issuecomment-1870342575) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-2. 🔒 Closed issue [#2215](https://github.com/shadcn-ui/ui/issues/2215) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-3. ❗ Opened issue [#2215](https://github.com/shadcn-ui/ui/issues/2215) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-4. 🗣 Commented on [#36](https://github.com/nvim-telescope/telescope-ui-select.nvim/issues/36#issuecomment-1859174771) in [nvim-telescope/telescope-ui-select.nvim](https://github.com/nvim-telescope/telescope-ui-select.nvim)
-5. 🔒 Closed issue [#36](https://github.com/nvim-telescope/telescope-ui-select.nvim/issues/36) in [nvim-telescope/telescope-ui-select.nvim](https://github.com/nvim-telescope/telescope-ui-select.nvim)
+1. ❗ Opened issue [#2964](https://github.com/neovim/nvim-lspconfig/issues/2964) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+2. 💪 Opened PR [#2963](https://github.com/neovim/nvim-lspconfig/pull/2963) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+3. 🗣 Commented on [#2215](https://github.com/shadcn-ui/ui/issues/2215#issuecomment-1870342575) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+4. 🔒 Closed issue [#2215](https://github.com/shadcn-ui/ui/issues/2215) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+5. ❗ Opened issue [#2215](https://github.com/shadcn-ui/ui/issues/2215) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
 <!--END_SECTION:activity-->
 
 </details>
