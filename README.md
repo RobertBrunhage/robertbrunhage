@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2965](https://github.com/neovim/nvim-lspconfig/pull/2965) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
-2. ❗ Opened issue [#2964](https://github.com/neovim/nvim-lspconfig/issues/2964) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
-3. 💪 Opened PR [#2963](https://github.com/neovim/nvim-lspconfig/pull/2963) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
-4. 🗣 Commented on [#2215](https://github.com/shadcn-ui/ui/issues/2215#issuecomment-1870342575) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
-5. 🔒 Closed issue [#2215](https://github.com/shadcn-ui/ui/issues/2215) in [shadcn-ui/ui](https://github.com/shadcn-ui/ui)
+1. 🗣 Commented on [#2969](https://github.com/neovim/nvim-lspconfig/pull/2969#issuecomment-1890915895) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+2. 🗣 Commented on [#2969](https://github.com/neovim/nvim-lspconfig/pull/2969#issuecomment-1890914313) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+3. 💪 Opened PR [#2969](https://github.com/neovim/nvim-lspconfig/pull/2969) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+4. 💪 Opened PR [#2965](https://github.com/neovim/nvim-lspconfig/pull/2965) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+5. ❗ Opened issue [#2964](https://github.com/neovim/nvim-lspconfig/issues/2964) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
 <!--END_SECTION:activity-->
 
 </details>
