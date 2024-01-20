@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2969](https://github.com/neovim/nvim-lspconfig/pull/2969#issuecomment-1890915895) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
-2. 🗣 Commented on [#2969](https://github.com/neovim/nvim-lspconfig/pull/2969#issuecomment-1890914313) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
-3. 💪 Opened PR [#2969](https://github.com/neovim/nvim-lspconfig/pull/2969) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
-4. 💪 Opened PR [#2965](https://github.com/neovim/nvim-lspconfig/pull/2965) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
-5. ❗ Opened issue [#2964](https://github.com/neovim/nvim-lspconfig/issues/2964) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+1. ❗ Opened issue [#9747](https://github.com/withastro/astro/issues/9747) in [withastro/astro](https://github.com/withastro/astro)
+2. 🗣 Commented on [#2969](https://github.com/neovim/nvim-lspconfig/pull/2969#issuecomment-1890915895) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+3. 🗣 Commented on [#2969](https://github.com/neovim/nvim-lspconfig/pull/2969#issuecomment-1890914313) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+4. 💪 Opened PR [#2969](https://github.com/neovim/nvim-lspconfig/pull/2969) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+5. 💪 Opened PR [#2965](https://github.com/neovim/nvim-lspconfig/pull/2965) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
 <!--END_SECTION:activity-->
 
 </details>
