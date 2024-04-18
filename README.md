@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#397](https://github.com/mdx-editor/editor/issues/397) in [mdx-editor/editor](https://github.com/mdx-editor/editor)
-2. 🗣 Commented on [#424](https://github.com/zino-hofmann/graphql-flutter/issues/424#issuecomment-1963486500) in [zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter)
-3. 🗣 Commented on [#1315](https://github.com/zino-hofmann/graphql-flutter/issues/1315#issuecomment-1963470337) in [zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter)
-4. 🗣 Commented on [#24721](https://github.com/neovim/neovim/issues/24721#issuecomment-1938723618) in [neovim/neovim](https://github.com/neovim/neovim)
-5. 🔒 Closed issue [#24721](https://github.com/neovim/neovim/issues/24721) in [neovim/neovim](https://github.com/neovim/neovim)
+1. ❗ Opened issue [#156](https://github.com/nfcim/flutter_nfc_kit/issues/156) in [nfcim/flutter_nfc_kit](https://github.com/nfcim/flutter_nfc_kit)
+2. ❗ Opened issue [#397](https://github.com/mdx-editor/editor/issues/397) in [mdx-editor/editor](https://github.com/mdx-editor/editor)
+3. 🗣 Commented on [#424](https://github.com/zino-hofmann/graphql-flutter/issues/424#issuecomment-1963486500) in [zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter)
+4. 🗣 Commented on [#1315](https://github.com/zino-hofmann/graphql-flutter/issues/1315#issuecomment-1963470337) in [zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter)
+5. 🗣 Commented on [#24721](https://github.com/neovim/neovim/issues/24721#issuecomment-1938723618) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
 
 </details>
