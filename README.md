@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#156](https://github.com/nfcim/flutter_nfc_kit/issues/156#issuecomment-2077110507) in [nfcim/flutter_nfc_kit](https://github.com/nfcim/flutter_nfc_kit)
-2. 🔒 Closed issue [#156](https://github.com/nfcim/flutter_nfc_kit/issues/156) in [nfcim/flutter_nfc_kit](https://github.com/nfcim/flutter_nfc_kit)
-3. ❗ Opened issue [#156](https://github.com/nfcim/flutter_nfc_kit/issues/156) in [nfcim/flutter_nfc_kit](https://github.com/nfcim/flutter_nfc_kit)
-4. ❗ Opened issue [#397](https://github.com/mdx-editor/editor/issues/397) in [mdx-editor/editor](https://github.com/mdx-editor/editor)
-5. 🗣 Commented on [#424](https://github.com/zino-hofmann/graphql-flutter/issues/424#issuecomment-1963486500) in [zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter)
+1. 💪 Opened PR [#10](https://github.com/hungrimind/course-kit/pull/10) in [hungrimind/course-kit](https://github.com/hungrimind/course-kit)
+2. 🗣 Commented on [#156](https://github.com/nfcim/flutter_nfc_kit/issues/156#issuecomment-2077110507) in [nfcim/flutter_nfc_kit](https://github.com/nfcim/flutter_nfc_kit)
+3. 🔒 Closed issue [#156](https://github.com/nfcim/flutter_nfc_kit/issues/156) in [nfcim/flutter_nfc_kit](https://github.com/nfcim/flutter_nfc_kit)
+4. ❗ Opened issue [#156](https://github.com/nfcim/flutter_nfc_kit/issues/156) in [nfcim/flutter_nfc_kit](https://github.com/nfcim/flutter_nfc_kit)
+5. ❗ Opened issue [#397](https://github.com/mdx-editor/editor/issues/397) in [mdx-editor/editor](https://github.com/mdx-editor/editor)
 <!--END_SECTION:activity-->
 
 </details>
