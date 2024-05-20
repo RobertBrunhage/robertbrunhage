@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14793](https://github.com/vim/vim/issues/14793#issuecomment-2117784370) in [vim/vim](https://github.com/vim/vim)
-2. ❗ Opened issue [#14793](https://github.com/vim/vim/issues/14793) in [vim/vim](https://github.com/vim/vim)
-3. ❗ Opened issue [#28812](https://github.com/neovim/neovim/issues/28812) in [neovim/neovim](https://github.com/neovim/neovim)
-4. 💪 Opened PR [#10](https://github.com/hungrimind/course-kit/pull/10) in [hungrimind/course-kit](https://github.com/hungrimind/course-kit)
-5. 🗣 Commented on [#156](https://github.com/nfcim/flutter_nfc_kit/issues/156#issuecomment-2077110507) in [nfcim/flutter_nfc_kit](https://github.com/nfcim/flutter_nfc_kit)
+1. 🗣 Commented on [#1315](https://github.com/zino-hofmann/graphql-flutter/issues/1315#issuecomment-2120219335) in [zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter)
+2. 🗣 Commented on [#14793](https://github.com/vim/vim/issues/14793#issuecomment-2117784370) in [vim/vim](https://github.com/vim/vim)
+3. ❗ Opened issue [#14793](https://github.com/vim/vim/issues/14793) in [vim/vim](https://github.com/vim/vim)
+4. ❗ Opened issue [#28812](https://github.com/neovim/neovim/issues/28812) in [neovim/neovim](https://github.com/neovim/neovim)
+5. 💪 Opened PR [#10](https://github.com/hungrimind/course-kit/pull/10) in [hungrimind/course-kit](https://github.com/hungrimind/course-kit)
 <!--END_SECTION:activity-->
 
 </details>
