@@ -35,11 +35,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#148753](https://github.com/flutter/flutter/issues/148753) in [flutter/flutter](https://github.com/flutter/flutter)
-2. 🗣 Commented on [#1315](https://github.com/zino-hofmann/graphql-flutter/issues/1315#issuecomment-2120219335) in [zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter)
-3. 🗣 Commented on [#14793](https://github.com/vim/vim/issues/14793#issuecomment-2117784370) in [vim/vim](https://github.com/vim/vim)
-4. ❗ Opened issue [#14793](https://github.com/vim/vim/issues/14793) in [vim/vim](https://github.com/vim/vim)
-5. ❗ Opened issue [#28812](https://github.com/neovim/neovim/issues/28812) in [neovim/neovim](https://github.com/neovim/neovim)
+1. 🗣 Commented on [#148753](https://github.com/flutter/flutter/issues/148753#issuecomment-2122226824) in [flutter/flutter](https://github.com/flutter/flutter)
+2. 🔒 Closed issue [#148753](https://github.com/flutter/flutter/issues/148753) in [flutter/flutter](https://github.com/flutter/flutter)
+3. ❗ Opened issue [#148753](https://github.com/flutter/flutter/issues/148753) in [flutter/flutter](https://github.com/flutter/flutter)
+4. 🗣 Commented on [#1315](https://github.com/zino-hofmann/graphql-flutter/issues/1315#issuecomment-2120219335) in [zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter)
+5. 🗣 Commented on [#14793](https://github.com/vim/vim/issues/14793#issuecomment-2117784370) in [vim/vim](https://github.com/vim/vim)
 <!--END_SECTION:activity-->
 
 </details>
