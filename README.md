@@ -30,11 +30,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#32](https://github.com/frankroeder/parrot.nvim/issues/32) in [frankroeder/parrot.nvim](https://github.com/frankroeder/parrot.nvim)
-2. 💪 Opened PR [#11](https://github.com/hungrimind/course-kit/pull/11) in [hungrimind/course-kit](https://github.com/hungrimind/course-kit)
-3. 🎉 Merged PR [#1](https://github.com/hungrimind/sync_test/pull/1) in [hungrimind/sync_test](https://github.com/hungrimind/sync_test)
-4. 🗣 Commented on [#1](https://github.com/hungrimind/sync_test/pull/1#issuecomment-2180991154) in [hungrimind/sync_test](https://github.com/hungrimind/sync_test)
-5. 🗣 Commented on [#1431](https://github.com/zino-hofmann/graphql-flutter/pull/1431#issuecomment-2162120309) in [zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter)
+1. 🗣 Commented on [#32](https://github.com/frankroeder/parrot.nvim/issues/32#issuecomment-2252771842) in [frankroeder/parrot.nvim](https://github.com/frankroeder/parrot.nvim)
+2. ❗ Opened issue [#32](https://github.com/frankroeder/parrot.nvim/issues/32) in [frankroeder/parrot.nvim](https://github.com/frankroeder/parrot.nvim)
+3. 💪 Opened PR [#11](https://github.com/hungrimind/course-kit/pull/11) in [hungrimind/course-kit](https://github.com/hungrimind/course-kit)
+4. 🎉 Merged PR [#1](https://github.com/hungrimind/sync_test/pull/1) in [hungrimind/sync_test](https://github.com/hungrimind/sync_test)
+5. 🗣 Commented on [#1](https://github.com/hungrimind/sync_test/pull/1#issuecomment-2180991154) in [hungrimind/sync_test](https://github.com/hungrimind/sync_test)
 <!--END_SECTION:activity-->
 
 </details>
