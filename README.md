@@ -30,11 +30,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#33](https://github.com/frankroeder/parrot.nvim/pull/33) in [frankroeder/parrot.nvim](https://github.com/frankroeder/parrot.nvim)
-2. 🗣 Commented on [#32](https://github.com/frankroeder/parrot.nvim/issues/32#issuecomment-2253769646) in [frankroeder/parrot.nvim](https://github.com/frankroeder/parrot.nvim)
-3. 🗣 Commented on [#32](https://github.com/frankroeder/parrot.nvim/issues/32#issuecomment-2252771842) in [frankroeder/parrot.nvim](https://github.com/frankroeder/parrot.nvim)
-4. ❗ Opened issue [#32](https://github.com/frankroeder/parrot.nvim/issues/32) in [frankroeder/parrot.nvim](https://github.com/frankroeder/parrot.nvim)
-5. 💪 Opened PR [#11](https://github.com/hungrimind/course-kit/pull/11) in [hungrimind/course-kit](https://github.com/hungrimind/course-kit)
+1. 🗣 Commented on [#32](https://github.com/frankroeder/parrot.nvim/issues/32#issuecomment-2254343699) in [frankroeder/parrot.nvim](https://github.com/frankroeder/parrot.nvim)
+2. 💪 Opened PR [#33](https://github.com/frankroeder/parrot.nvim/pull/33) in [frankroeder/parrot.nvim](https://github.com/frankroeder/parrot.nvim)
+3. 🗣 Commented on [#32](https://github.com/frankroeder/parrot.nvim/issues/32#issuecomment-2253769646) in [frankroeder/parrot.nvim](https://github.com/frankroeder/parrot.nvim)
+4. 🗣 Commented on [#32](https://github.com/frankroeder/parrot.nvim/issues/32#issuecomment-2252771842) in [frankroeder/parrot.nvim](https://github.com/frankroeder/parrot.nvim)
+5. ❗ Opened issue [#32](https://github.com/frankroeder/parrot.nvim/issues/32) in [frankroeder/parrot.nvim](https://github.com/frankroeder/parrot.nvim)
 <!--END_SECTION:activity-->
 
 </details>
