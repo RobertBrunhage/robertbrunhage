@@ -30,11 +30,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/hungrimind/flutter_todo/pull/3) in [hungrimind/flutter_todo](https://github.com/hungrimind/flutter_todo)
-2. 🗣 Commented on [#28](https://github.com/rianadon/Cosmos-Keyboards/issues/28#issuecomment-2275020695) in [rianadon/Cosmos-Keyboards](https://github.com/rianadon/Cosmos-Keyboards)
-3. ❗ Opened issue [#28](https://github.com/rianadon/Cosmos-Keyboards/issues/28) in [rianadon/Cosmos-Keyboards](https://github.com/rianadon/Cosmos-Keyboards)
-4. 🗣 Commented on [#1431](https://github.com/zino-hofmann/graphql-flutter/pull/1431#issuecomment-2260288210) in [zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter)
-5. 🗣 Commented on [#32](https://github.com/frankroeder/parrot.nvim/issues/32#issuecomment-2257642538) in [frankroeder/parrot.nvim](https://github.com/frankroeder/parrot.nvim)
+1. 🗣 Commented on [#1457](https://github.com/zino-hofmann/graphql-flutter/issues/1457#issuecomment-2339735769) in [zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter)
+2. ❗ Opened issue [#1457](https://github.com/zino-hofmann/graphql-flutter/issues/1457) in [zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter)
+3. 💪 Opened PR [#3](https://github.com/hungrimind/flutter_todo/pull/3) in [hungrimind/flutter_todo](https://github.com/hungrimind/flutter_todo)
+4. 🗣 Commented on [#28](https://github.com/rianadon/Cosmos-Keyboards/issues/28#issuecomment-2275020695) in [rianadon/Cosmos-Keyboards](https://github.com/rianadon/Cosmos-Keyboards)
+5. ❗ Opened issue [#28](https://github.com/rianadon/Cosmos-Keyboards/issues/28) in [rianadon/Cosmos-Keyboards](https://github.com/rianadon/Cosmos-Keyboards)
 <!--END_SECTION:activity-->
 
 </details>
