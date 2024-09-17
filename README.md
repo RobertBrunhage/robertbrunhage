@@ -30,11 +30,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#155295](https://github.com/flutter/flutter/issues/155295#issuecomment-2355936777) in [flutter/flutter](https://github.com/flutter/flutter)
-2. 🗣 Commented on [#150131](https://github.com/flutter/flutter/issues/150131#issuecomment-2355936028) in [flutter/flutter](https://github.com/flutter/flutter)
-3. ❗ Opened issue [#155295](https://github.com/flutter/flutter/issues/155295) in [flutter/flutter](https://github.com/flutter/flutter)
-4. 🗣 Commented on [#13323](https://github.com/firebase/flutterfire/issues/13323#issuecomment-2355733103) in [firebase/flutterfire](https://github.com/firebase/flutterfire)
-5. 🗣 Commented on [#13348](https://github.com/firebase/flutterfire/issues/13348#issuecomment-2355647810) in [firebase/flutterfire](https://github.com/firebase/flutterfire)
+1. 🗣 Commented on [#13323](https://github.com/firebase/flutterfire/issues/13323#issuecomment-2356234160) in [firebase/flutterfire](https://github.com/firebase/flutterfire)
+2. 🗣 Commented on [#155295](https://github.com/flutter/flutter/issues/155295#issuecomment-2355936777) in [flutter/flutter](https://github.com/flutter/flutter)
+3. 🗣 Commented on [#150131](https://github.com/flutter/flutter/issues/150131#issuecomment-2355936028) in [flutter/flutter](https://github.com/flutter/flutter)
+4. ❗ Opened issue [#155295](https://github.com/flutter/flutter/issues/155295) in [flutter/flutter](https://github.com/flutter/flutter)
+5. 🗣 Commented on [#13323](https://github.com/firebase/flutterfire/issues/13323#issuecomment-2355733103) in [firebase/flutterfire](https://github.com/firebase/flutterfire)
 <!--END_SECTION:activity-->
 
 </details>
