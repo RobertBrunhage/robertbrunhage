@@ -30,11 +30,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13323](https://github.com/firebase/flutterfire/issues/13323#issuecomment-2355733103) in [firebase/flutterfire](https://github.com/firebase/flutterfire)
-2. 🗣 Commented on [#13348](https://github.com/firebase/flutterfire/issues/13348#issuecomment-2355647810) in [firebase/flutterfire](https://github.com/firebase/flutterfire)
-3. 🗣 Commented on [#1457](https://github.com/zino-hofmann/graphql-flutter/issues/1457#issuecomment-2339735769) in [zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter)
-4. ❗ Opened issue [#1457](https://github.com/zino-hofmann/graphql-flutter/issues/1457) in [zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter)
-5. 💪 Opened PR [#3](https://github.com/hungrimind/flutter_todo/pull/3) in [hungrimind/flutter_todo](https://github.com/hungrimind/flutter_todo)
+1. ❗ Opened issue [#155295](https://github.com/flutter/flutter/issues/155295) in [flutter/flutter](https://github.com/flutter/flutter)
+2. 🗣 Commented on [#13323](https://github.com/firebase/flutterfire/issues/13323#issuecomment-2355733103) in [firebase/flutterfire](https://github.com/firebase/flutterfire)
+3. 🗣 Commented on [#13348](https://github.com/firebase/flutterfire/issues/13348#issuecomment-2355647810) in [firebase/flutterfire](https://github.com/firebase/flutterfire)
+4. 🗣 Commented on [#1457](https://github.com/zino-hofmann/graphql-flutter/issues/1457#issuecomment-2339735769) in [zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter)
+5. ❗ Opened issue [#1457](https://github.com/zino-hofmann/graphql-flutter/issues/1457) in [zino-hofmann/graphql-flutter](https://github.com/zino-hofmann/graphql-flutter)
 <!--END_SECTION:activity-->
 
 </details>
