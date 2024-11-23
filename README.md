@@ -17,11 +17,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
 
 ### 📺 Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [My favorite testing approach in Flutter](https://www.youtube.com/watch?v=ywGfds4gPZw)
 - [This is my approach to state management in Flutter](https://www.youtube.com/watch?v=JFqB2FiXGzU)
 - [Pattern Matching in Dart 3 is Powerful!](https://www.youtube.com/watch?v=j3fzeDpd2ts)
 - [Flutter iOS Wireless Debugging Is Awesome](https://www.youtube.com/watch?v=atbStqnPXC8)
 - [Dart 3 Class Modifiers Is kinda Confusing](https://www.youtube.com/watch?v=Od49lG0ez0o)
-- [Why I Will Never Use a Normal Keyboard Again](https://www.youtube.com/watch?v=t4KCvFumRMs)
 <!-- YOUTUBE:END -->
 
 ---
