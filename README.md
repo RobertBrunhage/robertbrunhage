@@ -1,21 +1,15 @@
-### Hey
+## Robert Brunhage
 
-[![youtube](https://img.shields.io/static/v1?label=@RobertBrunhage&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)](http://bit.ly/2SUyRhx)
-[![twitter](https://img.shields.io/twitter/follow/robertbrunhage?color=%231DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frobertbrunhage&screen_name=robertbrunhage)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](http://bit.ly/2SUyRhx)
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Frobertbrunhage&screen_name=robertbrunhage)
+
+Best Flutter Course On The Internet - [Hungrimind](https://hungrimind.com)
 
 You can find code from new tutorials over at [My other GitHub Account](https://github.com/Robert-Brunhage-Organization)
 
-### 📫 Connect with me:
-
-[<img align="left" alt="RobertBrunhage | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="RobertBrunhage | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="RobertBrunhageDev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
 ---
 
-### 📺 Latest YouTube Videos
+## Latest YouTube Videos
 <!-- YOUTUBE:START -->
 - [My favorite testing approach in Flutter](https://www.youtube.com/watch?v=ywGfds4gPZw)
 - [This is my approach to state management in Flutter](https://www.youtube.com/watch?v=JFqB2FiXGzU)
