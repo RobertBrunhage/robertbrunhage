@@ -24,11 +24,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/hungrimind/lsp-poc/pull/1) in [hungrimind/lsp-poc](https://github.com/hungrimind/lsp-poc)
-2. 🎉 Merged PR [#3](https://github.com/hungrimind/flutter-of-the-year/pull/3) in [hungrimind/flutter-of-the-year](https://github.com/hungrimind/flutter-of-the-year)
-3. 🗣 Commented on [#11438](https://github.com/flutter/website/issues/11438#issuecomment-2497097589) in [flutter/website](https://github.com/flutter/website)
-4. 🗣 Commented on [#11414](https://github.com/flutter/website/pull/11414#issuecomment-2489105331) in [flutter/website](https://github.com/flutter/website)
-5. 💪 Opened PR [#6](https://github.com/hungrimind/flutter_todo/pull/6) in [hungrimind/flutter_todo](https://github.com/hungrimind/flutter_todo)
+1. 🎉 Merged PR [#7](https://github.com/hungrimind/flutter_todo/pull/7) in [hungrimind/flutter_todo](https://github.com/hungrimind/flutter_todo)
+2. 💪 Opened PR [#1](https://github.com/hungrimind/lsp-poc/pull/1) in [hungrimind/lsp-poc](https://github.com/hungrimind/lsp-poc)
+3. 🎉 Merged PR [#3](https://github.com/hungrimind/flutter-of-the-year/pull/3) in [hungrimind/flutter-of-the-year](https://github.com/hungrimind/flutter-of-the-year)
+4. 🗣 Commented on [#11438](https://github.com/flutter/website/issues/11438#issuecomment-2497097589) in [flutter/website](https://github.com/flutter/website)
+5. 🗣 Commented on [#11414](https://github.com/flutter/website/pull/11414#issuecomment-2489105331) in [flutter/website](https://github.com/flutter/website)
 <!--END_SECTION:activity-->
 
 </details>
