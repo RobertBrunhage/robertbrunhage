@@ -24,9 +24,9 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12952](https://github.com/withastro/astro/issues/12952#issuecomment-2581954840) in [withastro/astro](https://github.com/withastro/astro)
-2. 🎉 Merged PR [#7](https://github.com/hungrimind/flutter_todo/pull/7) in [hungrimind/flutter_todo](https://github.com/hungrimind/flutter_todo)
-3. 💪 Opened PR [#1](https://github.com/hungrimind/lsp-poc/pull/1) in [hungrimind/lsp-poc](https://github.com/hungrimind/lsp-poc)
+1. 🎉 Merged PR [#2](https://github.com/hungrimind/best-flutter/pull/2) in [hungrimind/best-flutter](https://github.com/hungrimind/best-flutter)
+2. 🎉 Merged PR [#8](https://github.com/hungrimind/flutter_todo/pull/8) in [hungrimind/flutter_todo](https://github.com/hungrimind/flutter_todo)
+3. 🎉 Merged PR [#2](https://github.com/hungrimind/x_clone/pull/2) in [hungrimind/x_clone](https://github.com/hungrimind/x_clone)
 4. 🎉 Merged PR [#3](https://github.com/hungrimind/flutter-of-the-year/pull/3) in [hungrimind/flutter-of-the-year](https://github.com/hungrimind/flutter-of-the-year)
 5. 🗣 Commented on [#11438](https://github.com/flutter/website/issues/11438#issuecomment-2497097589) in [flutter/website](https://github.com/flutter/website)
 <!--END_SECTION:activity-->
