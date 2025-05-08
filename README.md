@@ -24,7 +24,7 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#338](https://github.com/nank1ro/flutter-shadcn-ui/issues/338) in [nank1ro/flutter-shadcn-ui](https://github.com/nank1ro/flutter-shadcn-ui)
+1. ❌ Closed PR [#1](https://github.com/hungrimind/lsp-poc/pull/1) in [hungrimind/lsp-poc](https://github.com/hungrimind/lsp-poc)
 2. 🎉 Merged PR [#4](https://github.com/hungrimind/best-flutter/pull/4) in [hungrimind/best-flutter](https://github.com/hungrimind/best-flutter)
 3. 💪 Opened PR [#4](https://github.com/hungrimind/best-flutter/pull/4) in [hungrimind/best-flutter](https://github.com/hungrimind/best-flutter)
 4. 🎉 Merged PR [#3](https://github.com/hungrimind/flutter-of-the-year/pull/3) in [hungrimind/flutter-of-the-year](https://github.com/hungrimind/flutter-of-the-year)
