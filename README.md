@@ -11,11 +11,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
 
 ## Latest YouTube Videos
 <!-- YOUTUBE:START -->
+- [Flutter Hungrimind Announcements](https://www.youtube.com/watch?v=MhnHptoz6GE)
 - [How I automate repetitive work](https://www.youtube.com/watch?v=CNkL6dEOGTo)
 - [My favorite testing approach in Flutter](https://www.youtube.com/watch?v=ywGfds4gPZw)
 - [This is my approach to state management in Flutter](https://www.youtube.com/watch?v=JFqB2FiXGzU)
 - [Pattern Matching in Dart 3 is Powerful!](https://www.youtube.com/watch?v=j3fzeDpd2ts)
-- [Flutter iOS Wireless Debugging Is Awesome](https://www.youtube.com/watch?v=atbStqnPXC8)
 <!-- YOUTUBE:END -->
 
 ---
