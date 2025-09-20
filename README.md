@@ -24,10 +24,10 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#174791](https://github.com/flutter/flutter/issues/174791#issuecomment-3245894831) in [flutter/flutter](https://github.com/flutter/flutter)
-2. ❗ Opened issue [#174791](https://github.com/flutter/flutter/issues/174791) in [flutter/flutter](https://github.com/flutter/flutter)
-3. 🗣 Commented on [#1](https://github.com/RobertBrunhage/dart-tools.nvim/issues/1#issuecomment-3219031811) in [RobertBrunhage/dart-tools.nvim](https://github.com/RobertBrunhage/dart-tools.nvim)
-4. 💪 Opened PR [#5](undefined) in [hungrimind/workout](https://github.com/hungrimind/workout)
+1. 🗣 Commented on [#174791](https://github.com/flutter/flutter/issues/174791#issuecomment-3315054732) in [flutter/flutter](https://github.com/flutter/flutter)
+2. 🗣 Commented on [#174791](https://github.com/flutter/flutter/issues/174791#issuecomment-3245894831) in [flutter/flutter](https://github.com/flutter/flutter)
+3. ❗ Opened issue [#174791](https://github.com/flutter/flutter/issues/174791) in [flutter/flutter](https://github.com/flutter/flutter)
+4. 🗣 Commented on [#1](https://github.com/RobertBrunhage/dart-tools.nvim/issues/1#issuecomment-3219031811) in [RobertBrunhage/dart-tools.nvim](https://github.com/RobertBrunhage/dart-tools.nvim)
 5. 💪 Opened PR [#5](undefined) in [hungrimind/x_clone](https://github.com/hungrimind/x_clone)
 <!--END_SECTION:activity-->
 
