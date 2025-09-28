@@ -24,11 +24,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#42](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/42#issuecomment-3341701241) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-2. 🗣 Commented on [#42](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/42#issuecomment-3332301033) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-3. 🔒 Closed issue [#1](https://github.com/hungrimind/x_clone/issues/1) in [hungrimind/x_clone](https://github.com/hungrimind/x_clone)
-4. 🗣 Commented on [#37](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/37#issuecomment-3316151728) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-5. 🗣 Commented on [#38](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/38#issuecomment-3316131244) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+1. ❌ Closed PR [#37](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/37) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+2. 🗣 Commented on [#37](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/37#issuecomment-3342340625) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+3. 🗣 Commented on [#40](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/40#issuecomment-3342339461) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+4. 🔒 Closed issue [#40](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/40) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+5. 🗣 Commented on [#41](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/41#issuecomment-3342339289) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
 <!--END_SECTION:activity-->
 
 </details>
