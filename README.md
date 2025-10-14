@@ -24,7 +24,7 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#37](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/37) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+1. ❌ Closed PR [#37](undefined) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
 2. 🗣 Commented on [#37](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/37#issuecomment-3342340625) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
 3. 🗣 Commented on [#40](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/40#issuecomment-3342339461) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
 4. 🔒 Closed issue [#40](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/40) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
