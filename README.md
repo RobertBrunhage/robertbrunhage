@@ -24,9 +24,9 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#37](undefined) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-2. 🗣 Commented on [#37](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/37#issuecomment-3342340625) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
-3. 🗣 Commented on [#40](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/40#issuecomment-3342339461) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+1.  Labeled issue [#1841](https://github.com/dart-lang/http/issues/1841) in [dart-lang/http](https://github.com/dart-lang/http)
+2.  Labeled issue [#1841](https://github.com/dart-lang/http/issues/1841) in [dart-lang/http](https://github.com/dart-lang/http)
+3. ❗ Opened issue [#1841](https://github.com/dart-lang/http/issues/1841) in [dart-lang/http](https://github.com/dart-lang/http)
 4. 🔒 Closed issue [#40](https://github.com/RobertBrunhage/flutter-riverpod-snippets/issues/40) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
 5. 🗣 Commented on [#41](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/41#issuecomment-3342339289) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
 <!--END_SECTION:activity-->
