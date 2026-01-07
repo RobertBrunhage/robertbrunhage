@@ -24,7 +24,7 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#178549](https://github.com/flutter/flutter/issues/178549) in [flutter/flutter](https://github.com/flutter/flutter)
+1. 🗣 Commented on [#178549](https://github.com/flutter/flutter/issues/178549#issuecomment-3717705902) in [flutter/flutter](https://github.com/flutter/flutter)
 2.  Labeled issue [#1841](https://github.com/dart-lang/http/issues/1841) in [dart-lang/http](https://github.com/dart-lang/http)
 3.  Labeled issue [#1841](https://github.com/dart-lang/http/issues/1841) in [dart-lang/http](https://github.com/dart-lang/http)
 4. ❗ Opened issue [#1841](https://github.com/dart-lang/http/issues/1841) in [dart-lang/http](https://github.com/dart-lang/http)
