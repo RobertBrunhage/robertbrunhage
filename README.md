@@ -24,9 +24,9 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#178549](https://github.com/flutter/flutter/issues/178549#issuecomment-3723754037) in [flutter/flutter](https://github.com/flutter/flutter)
-2. 🗣 Commented on [#178549](https://github.com/flutter/flutter/issues/178549#issuecomment-3717705902) in [flutter/flutter](https://github.com/flutter/flutter)
-3.  Labeled issue [#1841](https://github.com/dart-lang/http/issues/1841) in [dart-lang/http](https://github.com/dart-lang/http)
+1. 🗣 Commented on [#178549](https://github.com/flutter/flutter/issues/178549#issuecomment-3725242247) in [flutter/flutter](https://github.com/flutter/flutter)
+2. 🗣 Commented on [#178549](https://github.com/flutter/flutter/issues/178549#issuecomment-3723754037) in [flutter/flutter](https://github.com/flutter/flutter)
+3. 🗣 Commented on [#178549](https://github.com/flutter/flutter/issues/178549#issuecomment-3717705902) in [flutter/flutter](https://github.com/flutter/flutter)
 4. ❗ Opened issue [#1841](https://github.com/dart-lang/http/issues/1841) in [dart-lang/http](https://github.com/dart-lang/http)
 5. 🗣 Commented on [#41](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/41#issuecomment-3342339289) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
 <!--END_SECTION:activity-->
