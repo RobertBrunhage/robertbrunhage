@@ -24,10 +24,10 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/RobertBrunhage/kellix/pull/1) in [RobertBrunhage/kellix](https://github.com/RobertBrunhage/kellix)
-2. 💪 Opened PR [#1](https://github.com/RobertBrunhage/kellix/pull/1) in [RobertBrunhage/kellix](https://github.com/RobertBrunhage/kellix)
-3. 🗣 Commented on [#178549](https://github.com/flutter/flutter/issues/178549#issuecomment-3717705902) in [flutter/flutter](https://github.com/flutter/flutter)
-4. ❗ Opened issue [#1841](https://github.com/dart-lang/http/issues/1841) in [dart-lang/http](https://github.com/dart-lang/http)
+1. 🗣 Commented on [#44](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/44#issuecomment-4257970203) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+2. ❌ Closed PR [#44](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/44) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+3. 🎉 Merged PR [#1](https://github.com/RobertBrunhage/kellix/pull/1) in [RobertBrunhage/kellix](https://github.com/RobertBrunhage/kellix)
+4. 💪 Opened PR [#1](https://github.com/RobertBrunhage/kellix/pull/1) in [RobertBrunhage/kellix](https://github.com/RobertBrunhage/kellix)
 5. 🗣 Commented on [#41](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/41#issuecomment-3342339289) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
 <!--END_SECTION:activity-->
 
