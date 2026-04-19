@@ -24,11 +24,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/RobertBrunhage/codename-nasimus/pull/4) in [RobertBrunhage/codename-nasimus](https://github.com/RobertBrunhage/codename-nasimus)
-2. 💪 Opened PR [#4](https://github.com/RobertBrunhage/codename-nasimus/pull/4) in [RobertBrunhage/codename-nasimus](https://github.com/RobertBrunhage/codename-nasimus)
-3. 🎉 Merged PR [#3](https://github.com/RobertBrunhage/codename-nasimus/pull/3) in [RobertBrunhage/codename-nasimus](https://github.com/RobertBrunhage/codename-nasimus)
-4. 💪 Opened PR [#3](https://github.com/RobertBrunhage/codename-nasimus/pull/3) in [RobertBrunhage/codename-nasimus](https://github.com/RobertBrunhage/codename-nasimus)
-5. 🗣 Commented on [#44](https://github.com/RobertBrunhage/flutter-riverpod-snippets/pull/44#issuecomment-4257970203) in [RobertBrunhage/flutter-riverpod-snippets](https://github.com/RobertBrunhage/flutter-riverpod-snippets)
+1. 🎉 Merged PR [#8](https://github.com/RobertBrunhage/codename-nasimus/pull/8) in [RobertBrunhage/codename-nasimus](https://github.com/RobertBrunhage/codename-nasimus)
+2. 💪 Opened PR [#8](https://github.com/RobertBrunhage/codename-nasimus/pull/8) in [RobertBrunhage/codename-nasimus](https://github.com/RobertBrunhage/codename-nasimus)
+3. 🎉 Merged PR [#7](https://github.com/RobertBrunhage/codename-nasimus/pull/7) in [RobertBrunhage/codename-nasimus](https://github.com/RobertBrunhage/codename-nasimus)
+4. 💪 Opened PR [#7](https://github.com/RobertBrunhage/codename-nasimus/pull/7) in [RobertBrunhage/codename-nasimus](https://github.com/RobertBrunhage/codename-nasimus)
+5. 🎉 Merged PR [#6](https://github.com/RobertBrunhage/codename-nasimus/pull/6) in [RobertBrunhage/codename-nasimus](https://github.com/RobertBrunhage/codename-nasimus)
 <!--END_SECTION:activity-->
 
 </details>
