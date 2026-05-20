@@ -24,11 +24,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🚀 Published release [UI snapshots — rewrite/solid-go](https://github.com/RobertBrunhage/kellix/releases/tag/ui-snapshots/rewrite-solid-go) in [RobertBrunhage/kellix](https://github.com/RobertBrunhage/kellix)
-2. 💪 Opened PR [#3](https://github.com/RobertBrunhage/kellix/pull/3) in [RobertBrunhage/kellix](https://github.com/RobertBrunhage/kellix)
-3. 🎉 Merged PR [#2](https://github.com/RobertBrunhage/kellix/pull/2) in [RobertBrunhage/kellix](https://github.com/RobertBrunhage/kellix)
-4. 💪 Opened PR [#2](https://github.com/RobertBrunhage/kellix/pull/2) in [RobertBrunhage/kellix](https://github.com/RobertBrunhage/kellix)
-5. 🎉 Merged PR [#6](https://github.com/RobertBrunhage/codename-nasimus/pull/6) in [RobertBrunhage/codename-nasimus](https://github.com/RobertBrunhage/codename-nasimus)
+1. 🎉 Merged PR [#3](https://github.com/RobertBrunhage/kellix/pull/3) in [RobertBrunhage/kellix](https://github.com/RobertBrunhage/kellix)
+2. 🚀 Published release [UI snapshots — rewrite/solid-go](https://github.com/RobertBrunhage/kellix/releases/tag/ui-snapshots/rewrite-solid-go) in [RobertBrunhage/kellix](https://github.com/RobertBrunhage/kellix)
+3. 💪 Opened PR [#3](https://github.com/RobertBrunhage/kellix/pull/3) in [RobertBrunhage/kellix](https://github.com/RobertBrunhage/kellix)
+4. 🎉 Merged PR [#2](https://github.com/RobertBrunhage/kellix/pull/2) in [RobertBrunhage/kellix](https://github.com/RobertBrunhage/kellix)
+5. 💪 Opened PR [#2](https://github.com/RobertBrunhage/kellix/pull/2) in [RobertBrunhage/kellix](https://github.com/RobertBrunhage/kellix)
 <!--END_SECTION:activity-->
 
 </details>
