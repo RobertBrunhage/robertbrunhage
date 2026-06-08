@@ -24,11 +24,11 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/RobertBrunhage/kellix/pull/3) in [RobertBrunhage/kellix](https://github.com/RobertBrunhage/kellix)
-2. 🚀 Published release [UI snapshots — rewrite/solid-go](https://github.com/RobertBrunhage/kellix/releases/tag/ui-snapshots/rewrite-solid-go) in [RobertBrunhage/kellix](https://github.com/RobertBrunhage/kellix)
-3. 💪 Opened PR [#3](https://github.com/RobertBrunhage/kellix/pull/3) in [RobertBrunhage/kellix](https://github.com/RobertBrunhage/kellix)
-4. 🎉 Merged PR [#2](https://github.com/RobertBrunhage/kellix/pull/2) in [RobertBrunhage/kellix](https://github.com/RobertBrunhage/kellix)
-5. 💪 Opened PR [#2](https://github.com/RobertBrunhage/kellix/pull/2) in [RobertBrunhage/kellix](https://github.com/RobertBrunhage/kellix)
+1. 💪 Opened PR [#2](https://github.com/pstromberg98/flutter-radar/pull/2) in [pstromberg98/flutter-radar](https://github.com/pstromberg98/flutter-radar)
+2. 🎉 Merged PR [#3](https://github.com/RobertBrunhage/kellix/pull/3) in [RobertBrunhage/kellix](https://github.com/RobertBrunhage/kellix)
+3. 🚀 Published release [UI snapshots — rewrite/solid-go](https://github.com/RobertBrunhage/kellix/releases/tag/ui-snapshots/rewrite-solid-go) in [RobertBrunhage/kellix](https://github.com/RobertBrunhage/kellix)
+4. 💪 Opened PR [#3](https://github.com/RobertBrunhage/kellix/pull/3) in [RobertBrunhage/kellix](https://github.com/RobertBrunhage/kellix)
+5. 🎉 Merged PR [#2](https://github.com/RobertBrunhage/kellix/pull/2) in [RobertBrunhage/kellix](https://github.com/RobertBrunhage/kellix)
 <!--END_SECTION:activity-->
 
 </details>
