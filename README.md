@@ -24,7 +24,7 @@ You can find code from new tutorials over at [My other GitHub Account](https://g
   <summary>:zap: Recent Github Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/pstromberg98/flutter-radar/pull/2) in [pstromberg98/flutter-radar](https://github.com/pstromberg98/flutter-radar)
+1. 🚀 Published release [v2.0.0](https://github.com/hungrimind/hungrimind-cli/releases/tag/v2.0.0) in [hungrimind/hungrimind-cli](https://github.com/hungrimind/hungrimind-cli)
 2. 💪 Opened PR [#8](https://github.com/RobertBrunhage/kellix/pull/8) in [RobertBrunhage/kellix](https://github.com/RobertBrunhage/kellix)
 3. 🎉 Merged PR [#7](https://github.com/RobertBrunhage/kellix/pull/7) in [RobertBrunhage/kellix](https://github.com/RobertBrunhage/kellix)
 4. 💪 Opened PR [#7](https://github.com/RobertBrunhage/kellix/pull/7) in [RobertBrunhage/kellix](https://github.com/RobertBrunhage/kellix)
